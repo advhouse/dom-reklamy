@@ -17,3 +17,4 @@
 - [2026-05-12-index-note-public-openness.md](./2026-05-12-index-note-public-openness.md)
 - [2026-05-12-index-note-technology-readiness.md](./2026-05-12-index-note-technology-readiness.md)
 - [2026-05-12-method-note-first-public-edition.md](./2026-05-12-method-note-first-public-edition.md)
+- [2026-05-12-top-5-platform-movers.md](./2026-05-12-top-5-platform-movers.md)
