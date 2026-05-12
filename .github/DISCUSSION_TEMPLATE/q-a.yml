@@ -3,7 +3,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Use this form for questions about the project, GitHub workflow, partner entry, materials, or public collaboration.
+        Используйте эту форму для вопросов о проекте, работе репозитория, партнерском входе, материалах и публичном сотрудничестве.
   - type: input
     id: question
     attributes:
@@ -18,8 +18,8 @@ body:
       label: Topic
       options:
         - Partner collaboration
-        - GitHub and repository workflow
-        - Website and public showcase
+        - Работа GitHub и репозитория
+        - Сайт и публичная витрина
         - Content and materials
         - Contacts and communication
         - Other

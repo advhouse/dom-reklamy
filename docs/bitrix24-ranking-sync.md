@@ -1,4 +1,4 @@
-# Bitrix24 Ranking Sync
+# Синхронизация рейтингов с Bitrix24
 
 Этот документ фиксирует, что именно должно синхронизироваться из рейтинговой системы `Дом рекламы / Advhouse` в `Bitrix24 / Modest Integration`.
 
@@ -9,7 +9,7 @@
 
 ## Что должно уходить в Bitrix24 еженедельно
 
-### 1. Weekly ranking record
+### 1. Запись недели
 
 Поля:
 
@@ -23,12 +23,12 @@
 - removed from Top 20
 - publication URL
 
-### 2. Company scorecards
+### 2. Карточки компаний
 
-Для каждой компании, попавшей в weekly Top 20:
+Для каждой компании, попавшей в недельный Top 20:
 
 - company name
-- layer
+- круг наблюдения
 - primary domain
 - total score
 - Creative Impact Index
@@ -37,11 +37,11 @@
 - Technology and Product Readiness Index
 - Distribution and Platform Power Index
 - Awards and Festival Index
-- Public Signal and Openness Index
-- Weekly Momentum Index
-- short reasoning note
+- Индекс публичной открытости
+- Индекс недельной динамики
+- краткое пояснение
 
-### 3. Review and conflict intake
+### 3. Вопросы и спорные случаи
 
 Если приходят вопросы или претензии:
 
@@ -54,39 +54,39 @@
 - response status
 - decision
 
-### 4. Editorial pipeline
+### 4. План публикаций
 
 Для публикаций и аналитики:
 
-- weekly ranking post
-- weekly movement note
+- публикация недельного рейтинга
+- заметка о движении компаний
 - essay topic
-- methodology note
+- заметка о методике
 - index review
 - monthly recap
 
 ## Какие сущности лучше завести в Bitrix24
 
-### Lists or smart processes
+### Списки или смарт-процессы
 
 - `Ranking Weeks`
 - `Ranked Companies`
-- `Ranking Reviews`
-- `Editorial Outputs`
+- `Пересмотры рейтинга`
+- `Редакционные материалы`
 - `Index Evidence`
 
-### Minimum linkage
+### Минимальные связи
 
 - one `Ranking Week` links to many `Ranked Companies`
 - one `Ranked Company` can link to one or more `Index Evidence` items
-- one `Ranking Review` links to one `Ranking Week` and one company
-- one `Editorial Output` links to one `Ranking Week`
+- один `Пересмотр рейтинга` связан с одной `Неделей рейтинга` и одной компанией
+- один `Редакционный материал` связан с одной `Неделей рейтинга`
 
-## Минимальный weekly workflow
+## Минимальный недельный порядок работы
 
 1. Создать запись недели.
 2. Занести Top 20.
-3. Занести scorecards по всем 20 компаниям.
+3. Занести карточки по всем 20 компаниям.
 4. Привязать доказательную базу.
 5. Создать публикацию.
 6. Открыть окно для review requests.
@@ -94,7 +94,7 @@
 
 ## Что важно для Modest Integration
 
-Если `Modest Integration` будет использоваться как слой автоматизации, ему стоит передавать:
+Если `Modest Integration` будет использоваться как средство автоматизации, ему стоит передавать:
 
 - ranking metadata
 - company score snapshots
@@ -106,7 +106,7 @@
 
 Как только будет доступен рабочий коннектор или API-вход в `Bitrix24 / Modest Integration`, эту схему можно превратить в:
 
-- автообновление weekly ranking records;
+- автообновление записей по недельному рейтингу;
 - автоархив ответов на споры;
-- автоформирование scorecards;
+- автоформирование карточек компаний;
 - автоэкспорт в публичные GitHub-публикации.

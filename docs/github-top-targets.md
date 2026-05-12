@@ -10,21 +10,21 @@
 
 Важно: у большинства крупных рекламных премий GitHub не является их основной публичной площадкой. Поэтому основной вес здесь переносится на компании, платформы, партнеров, спикеров и технологические организации вокруг этих премий.
 
-## Приоритеты
+## Как читать этот список
 
 - `Follow account`: следить за организацией или компанией как за публичным GitHub-узлом.
 - `Star repo`: сохранить конкретный сильный репозиторий как ориентир, инструмент или сигнал внимания.
-- `Mandatory layer`: обязательный слой, без которого внешний контур будет неполным.
-- `Cannes layer`: партнеры, жюри, спикеры и компании из публичного контура `Cannes Lions`.
-- `Award ecosystem layer`: люди и компании из `D&AD`, `Clio`, `The One Show`, `Effie`, `ADC`, `LIA`, `Epica`, `Eurobest`.
+- `Основной круг`: без него внешний контур будет неполным.
+- `Каннский круг`: партнеры, жюри, спикеры и компании из публичного контура `Cannes Lions`.
+- `Среда премий`: люди и компании из `D&AD`, `Clio`, `The One Show`, `Effie`, `ADC`, `LIA`, `Epica`, `Eurobest`.
 
-## Three Layers
+## Три круга
 
-### 1. Mandatory Layer
+### 1. Основной круг
 
 Это обязательный слой. Он собирает главные компании и платформы, без которых нельзя серьезно наблюдать за современной средой рекламы, дизайна, digital и креативных коммуникаций.
 
-`Follow accounts`
+`За кем следить`
 
 1. [adobe](https://github.com/adobe)
 2. [AdobeDocs](https://github.com/AdobeDocs)
@@ -39,7 +39,7 @@
 11. [vercel](https://github.com/vercel)
 12. [cloudflare](https://github.com/cloudflare)
 
-`Star repos`
+`Какие репозитории отмечать`
 
 1. [adobe/react-spectrum](https://github.com/adobe/react-spectrum)
 2. [adobe/leonardo](https://github.com/adobe/leonardo)
@@ -57,13 +57,13 @@
 14. [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
 15. [github/github-mcp-server](https://github.com/github/github-mcp-server)
 
-### 2. Cannes Layer
+### 2. Каннский круг
 
 Это слой `Cannes Lions`: партнеры, участники публичной программы, технологические платформы, а также компании из жюри и креативно-маркетингового контура, у которых есть реальный GitHub-след.
 
 Важно: не у всех партнеров и спикеров `Cannes Lions` есть живой GitHub, поэтому в слой включены только те, у кого GitHub действительно является рабочим публичным узлом.
 
-`Follow accounts`
+`За кем следить`
 
 1. [reddit](https://github.com/reddit)
 2. [Infosys](https://github.com/Infosys)
@@ -72,7 +72,7 @@
 5. [salesforce](https://github.com/salesforce)
 6. [Netflix](https://github.com/Netflix)
 
-`Star repos`
+`Какие репозитории отмечать`
 
 1. [reddit/redditsans](https://github.com/reddit/redditsans)
 2. [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)
@@ -87,9 +87,9 @@
 11. [mediamonks/muban](https://github.com/mediamonks/muban)
 12. [mediamonks/fast-image-sequence](https://github.com/mediamonks/fast-image-sequence)
 
-### 3. Award Ecosystem Layer
+### 3. Среда премий
 
-Это слой `award ecosystem`: люди, компании, платформы и продуктовые узлы, которые полезны для наблюдения за более широким контуром `D&AD`, `Clio`, `The One Show`, `Effie`, `ADC`, `LIA`, `Epica`, `Eurobest`.
+Это круг наблюдения за более широкой средой `D&AD`, `Clio`, `The One Show`, `Effie`, `ADC`, `LIA`, `Epica`, `Eurobest`: люди, компании, платформы и продуктовые команды, за которыми действительно стоит следить.
 
 Здесь GitHub чаще связан не с самими award-брендами, а с их средой:
 
@@ -98,13 +98,13 @@
 - martech и media-tech;
 - commerce и digital-инфраструктурой.
 
-`Follow accounts`
+`За кем следить`
 
 1. [Shopify](https://github.com/Shopify)
 2. [IBM](https://github.com/IBM)
 3. [akqa](https://github.com/akqa)
 
-`Star repos`
+`Какие репозитории отмечать`
 
 1. [IBM/plex](https://github.com/IBM/plex)
 2. [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia)
@@ -126,7 +126,7 @@
 - `Дизайн`
 - `Креативные коммуникации`
 
-## Why These Targets
+## Почему именно эти цели
 
 ### Реклама
 
@@ -183,7 +183,7 @@
 - Reddit
 - Monks
 
-## Awards Context
+## Премиальный контекст
 
 Эти премии остаются обязательным контекстом наблюдения:
 
@@ -197,7 +197,7 @@
 - `Epica Awards`
 - `Eurobest`
 
-Но GitHub-ядро собирается не вокруг самих award-брендов, а вокруг:
+Но основное присутствие на GitHub строится не вокруг самих премий, а вокруг:
 
 - партнеров фестивалей;
 - спикеров и жюри;

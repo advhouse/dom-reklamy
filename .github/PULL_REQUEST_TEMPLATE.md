@@ -7,7 +7,7 @@
 
 - [ ] Content
 - [ ] GitHub setup
-- [ ] Website/showcase
+- [ ] Сайт/витрина
 - [ ] Partnership/process
 - [ ] Security or access
 

@@ -19,7 +19,7 @@
 
 ## Минимальная логика pinned repositories
 
-1. Main hub
+1. Главный репозиторий
 2. Website or GitHub Pages
 3. Materials or public docs
 4. Infrastructure or integrations repo, если появится

@@ -1,5 +1,5 @@
-name: Website or showcase update
-description: Improve the public GitHub showcase, website copy, structure, or presentation.
+name: Обновление сайта или витрины
+description: Улучшить публичную витрину GitHub, тексты сайта, структуру или подачу.
 title: "Website: "
 labels:
   - website

@@ -38,7 +38,7 @@
 
 ### Title
 
-`Website: align public-facing messaging with GitHub showcase`
+`Website: align public messaging with the GitHub presentation`
 
 ### Labels
 

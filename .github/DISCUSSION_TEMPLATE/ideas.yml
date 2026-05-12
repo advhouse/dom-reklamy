@@ -3,7 +3,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Use this form for public ideas, partnership concepts, new formats, and improvements to the project.
+        Используйте эту форму для публичных идей, партнерских предложений, новых форматов и улучшений проекта.
   - type: dropdown
     id: area
     attributes:
@@ -11,11 +11,11 @@ body:
       description: Choose the closest direction for your idea.
       options:
         - Partnerships
-        - Website and showcase
+        - Сайт и витрина
         - Content and materials
         - Media and PR
         - Design and branding
-        - GitHub workflow
+        - Работа GitHub
         - Other
     validations:
       required: true

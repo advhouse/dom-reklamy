@@ -2,13 +2,13 @@
 
 Это рабочая вселенная из `100` компаний и брендов, по которой `Дом рекламы / Advhouse` может строить недельные рейтинги, индексные обзоры и тематические публикации.
 
-Колонки:
+Как читать таблицу:
 
-- `Layer`: Mandatory / Cannes / Award ecosystem
-- `Primary Domain`: основной рабочий домен
-- `Ranking Scope`: где компания особенно релевантна
+- `Круг`: к какому кругу наблюдения относится компания
+- `Primary Domain`: чем компания прежде всего сильна
+- `Ranking Scope`: где она особенно важна для нашего рейтинга
 
-| # | Company | Layer | Primary Domain | Ranking Scope |
+| # | Компания | Круг | Основное поле | Где особенно важна |
 | --- | --- | --- | --- | --- |
 | 1 | Accenture Song | Cannes | Advertising transformation | Strategy, Digital, Creative |
 | 2 | WPP | Mandatory | International agency group | Advertising, Creative, Media |
@@ -111,8 +111,8 @@
 | 99 | Ströer | Award ecosystem | OOH and digital media | OOH, Media |
 | 100 | Lamar Advertising | Award ecosystem | OOH media company | OOH |
 
-## Как использовать эту вселенную
+## Как пользоваться этой вселенной
 
-- Weekly Top 20 строится только внутри этой вселенной.
+- Недельный Top 20 строится только внутри этой вселенной.
 - Не каждая компания обязана попадать в рейтинг каждую неделю.
 - В еженедельный рейтинг попадают только те, у кого достаточно сильный и проверяемый недельный сигнал.

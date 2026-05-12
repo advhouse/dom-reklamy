@@ -6,9 +6,9 @@ contact_links:
   - name: Project announcements
     url: https://github.com/advhouse/dom-reklamy/discussions/7
     about: Read the launch update and current public GitHub status for the project.
-  - name: Ranking methodology
+  - name: Методика рейтинга
     url: https://github.com/advhouse/dom-reklamy/blob/main/docs/ranking-framework.md
-    about: Review the public methodology behind weekly rankings and index-based scoring.
+    about: Ознакомиться с публичной методикой недельных рейтингов и индексной оценки.
   - name: Project website
     url: https://advhouse.com.ru/
     about: Review the current public website and project positioning.
