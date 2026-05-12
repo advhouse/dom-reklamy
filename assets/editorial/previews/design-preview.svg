@@ -7,9 +7,8 @@
   <polygon points="548,454 642,274 736,454" fill="#FFF0D7" fill-opacity="0.22"/>
   <circle cx="866" cy="360" r="94" fill="#FFF0D7" fill-opacity="0.24"/>
   <rect x="108" y="140" width="188" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.14"/>
-  <text x="108" y="252" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700">Design</text>
-  <text x="108" y="308" fill="#FFF3DC" font-family="Segoe UI, Arial, sans-serif" font-size="26">Form • Clarity • Visual Meaning</text>
-  <text x="108" y="172" fill="#FFF8EB" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Editorial Preview</text>
+  <rect x="108" y="246" width="266" height="26" rx="13" fill="#FFFFFF" fill-opacity="0.92"/>
+  <rect x="108" y="290" width="318" height="14" rx="7" fill="#FFF3DC" fill-opacity="0.78"/>
   <defs>
     <linearGradient id="bg" x1="78" y1="74" x2="1114" y2="560" gradientUnits="userSpaceOnUse">
       <stop stop-color="#2C2012"/>

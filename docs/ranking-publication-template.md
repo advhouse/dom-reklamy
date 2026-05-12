@@ -23,6 +23,11 @@
 
 - [multilingual-publishing-policy.md](./multilingual-publishing-policy.md)
 
+Если у weekly ranking publication есть обложка или превью:
+
+- общее превью для шестиязычного файла должно быть без текста;
+- текстовые версии изображения допускаются только как отдельные локализованные варианты для каждого языка.
+
 ## One-line Summary
 
 Одна короткая фраза:
