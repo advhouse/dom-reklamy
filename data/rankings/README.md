@@ -6,3 +6,4 @@
 
 - `2026-05-12-top-20-scorecards.csv`
 - `2026-05-12-sources.md`
+- `2026-05-12-index-agency-openness-technology.csv`
