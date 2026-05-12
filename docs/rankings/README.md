@@ -21,3 +21,5 @@
 - [2026-05-12-ai-watch.md](./2026-05-12-ai-watch.md)
 - [2026-05-12-developer-watch.md](./2026-05-12-developer-watch.md)
 - [2026-05-12-media-watch.md](./2026-05-12-media-watch.md)
+- [2026-05-12-design-watch.md](./2026-05-12-design-watch.md)
+- [2026-05-12-advertising-watch.md](./2026-05-12-advertising-watch.md)
