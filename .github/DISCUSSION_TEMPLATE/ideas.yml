@@ -1,0 +1,43 @@
+title: "[Idea] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for public ideas, partnership concepts, new formats, and improvements to the project.
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      description: Choose the closest direction for your idea.
+      options:
+        - Partnerships
+        - Website and showcase
+        - Content and materials
+        - Media and PR
+        - Design and branding
+        - GitHub workflow
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Idea
+      description: Describe the proposal clearly and briefly.
+      placeholder: What should be launched, improved, or tested?
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: Why this matters
+      description: Explain the expected benefit or reason this idea is useful.
+      placeholder: Why is this worth doing now?
+    validations:
+      required: true
+  - type: textarea
+    id: support
+    attributes:
+      label: What help is available
+      description: Mention people, materials, links, or resources that can support this idea.
+      placeholder: Optional links, context, partners, or available materials.

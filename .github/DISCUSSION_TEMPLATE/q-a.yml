@@ -1,0 +1,35 @@
+title: "[Q&A] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for questions about the project, GitHub workflow, partner entry, materials, or public collaboration.
+  - type: input
+    id: question
+    attributes:
+      label: Your question
+      description: Ask one clear question in the title line.
+      placeholder: How can a partner propose public materials for the project?
+    validations:
+      required: true
+  - type: dropdown
+    id: topic
+    attributes:
+      label: Topic
+      options:
+        - Partner collaboration
+        - GitHub and repository workflow
+        - Website and public showcase
+        - Content and materials
+        - Contacts and communication
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Add any useful details, links, or background.
+      placeholder: Share context that will help answer the question accurately.
+    validations:
+      required: true

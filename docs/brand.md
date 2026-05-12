@@ -35,3 +35,9 @@
 - ясные README и issue templates;
 - минимизацию случайных черновиков;
 - аккуратный внешний вид профиля и репозиториев.
+
+## Витринные материалы
+
+Черновой исходник для GitHub social preview лежит здесь:
+
+- [assets/brand/github-social-preview.svg](../assets/brand/github-social-preview.svg)

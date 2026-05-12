@@ -61,15 +61,23 @@
 
 ## Ближайшие задачи / Near-Term Tasks
 
-- [ ] Создать и подключить главный GitHub-репозиторий проекта.
-- [ ] Оформить профиль `advhouse` как витрину проекта.
-- [ ] Подготовить стартовые Issues и шаблоны входа.
-- [ ] Собрать базовые партнерские и публичные тексты.
-- [ ] Привести GitHub-контур к безопасной рабочей схеме.
+- [x] Создать и подключить главный GitHub-репозиторий проекта.
+- [ ] Довести профиль `advhouse` как внешнюю витрину проекта.
+- [x] Подготовить стартовые Issues и шаблоны входа.
+- [x] Собрать базовые партнерские и публичные тексты.
+- [x] Привести GitHub-контур к безопасной рабочей схеме.
+- [ ] Добавить финальные публичные данные: логотип, social preview, ссылки и контакты.
 
 ## Партнерский вход / Partner Entry
 
 Если вы хотите поддержать проект, предложить сотрудничество, материал, ссылку, мероприятие или новую инициативу, GitHub должен быть одной из точек входа, а не только внутренним техинструментом.
+
+Рабочие точки входа уже открыты:
+
+- Issues: [github.com/advhouse/dom-reklamy/issues](https://github.com/advhouse/dom-reklamy/issues)
+- Discussions: [github.com/advhouse/dom-reklamy/discussions](https://github.com/advhouse/dom-reklamy/discussions)
+- Партнерская дискуссия: [discussions/8](https://github.com/advhouse/dom-reklamy/discussions/8)
+- Стартовое объявление: [discussions/7](https://github.com/advhouse/dom-reklamy/discussions/7)
 
 Ближайшая цель:
 
@@ -89,6 +97,11 @@
 - безопасную рабочую схему через `SSH`, `API` и `1Password`.
 
 Универсальная инструкция лежит здесь: [docs/github-showcase.md](docs/github-showcase.md)
+
+Публичные GitHub-точки проекта:
+
+- Профиль: [github.com/advhouse](https://github.com/advhouse)
+- Главный репозиторий: [github.com/advhouse/dom-reklamy](https://github.com/advhouse/dom-reklamy)
 
 ## Контакты / Contacts
 

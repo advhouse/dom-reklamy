@@ -1,0 +1,30 @@
+title: "[Announcement] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for official project updates, launch notes, public milestones, and maintainers' announcements.
+  - type: input
+    id: summary
+    attributes:
+      label: Short announcement title
+      description: Give the update a clear public heading.
+      placeholder: Public launch update
+    validations:
+      required: true
+  - type: textarea
+    id: update
+    attributes:
+      label: Main update
+      description: Describe what changed, launched, or was confirmed.
+      placeholder: Share the key update in 2-6 short paragraphs.
+    validations:
+      required: true
+  - type: textarea
+    id: next-step
+    attributes:
+      label: What happens next
+      description: Explain the next action, follow-up, or public invitation.
+      placeholder: Next steps, links, or follow-up actions.
+    validations:
+      required: true

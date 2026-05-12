@@ -1,0 +1,30 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="114" y1="66" x2="1122" y2="586" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0C1F33"/>
+      <stop offset="1" stop-color="#1D5B8F"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="914" y1="126" x2="1110" y2="326" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#86D7FF" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#86D7FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="640" rx="32" fill="url(#bg)"/>
+  <circle cx="1034" cy="206" r="188" fill="url(#glow)"/>
+  <circle cx="1160" cy="96" r="110" fill="#6BC8FF" fill-opacity="0.12"/>
+  <path d="M0 493C118 444 224 420 348 425C515 432 593 521 764 520C920 520 1056 449 1280 342V640H0V493Z" fill="#0A1726" fill-opacity="0.24"/>
+  <rect x="88" y="86" width="180" height="36" rx="18" fill="#D8F1FF" fill-opacity="0.18"/>
+  <text x="118" y="110" fill="#D8F1FF" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="0.08em">GITHUB SHOWCASE</text>
+  <text x="88" y="240" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="700">Дом рекламы</text>
+  <text x="88" y="312" fill="#D9ECFF" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="400">Фонд и публичная платформа для новых форм</text>
+  <text x="88" y="352" fill="#D9ECFF" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="400">рекламной деятельности, медиа и партнерств</text>
+  <rect x="88" y="434" width="152" height="52" rx="26" fill="#DFF5FF"/>
+  <rect x="256" y="434" width="166" height="52" rx="26" fill="#DFF5FF" fill-opacity="0.16" stroke="#C8EAFF" stroke-opacity="0.3"/>
+  <rect x="438" y="434" width="148" height="52" rx="26" fill="#DFF5FF" fill-opacity="0.16" stroke="#C8EAFF" stroke-opacity="0.3"/>
+  <rect x="602" y="434" width="208" height="52" rx="26" fill="#DFF5FF" fill-opacity="0.16" stroke="#C8EAFF" stroke-opacity="0.3"/>
+  <text x="123" y="467" fill="#0B2033" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Advertising</text>
+  <text x="299" y="467" fill="#EAF7FF" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Digital</text>
+  <text x="483" y="467" fill="#EAF7FF" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Media</text>
+  <text x="643" y="467" fill="#EAF7FF" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Partnerships</text>
+  <text x="88" y="565" fill="#C4E6FF" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400">advhouse.com.ru   •   github.com/advhouse/dom-reklamy</text>
+</svg>
