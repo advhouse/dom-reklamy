@@ -14,20 +14,15 @@
 
 - `Follow account`: следить за организацией или компанией как за публичным GitHub-узлом.
 - `Star repo`: сохранить конкретный сильный репозиторий как ориентир, инструмент или сигнал внимания.
-- `Wave 1`: ядро креативной и digital-инфраструктуры.
-- `Wave 2`: медиа, стратегия, AI и агентский слой первого круга.
-- `Wave 3`: расширение и закрепление внешнего контура.
+- `Mandatory layer`: обязательный слой, без которого внешний контур будет неполным.
+- `Cannes layer`: партнеры, жюри, спикеры и компании из публичного контура `Cannes Lions`.
+- `Award ecosystem layer`: люди и компании из `D&AD`, `Clio`, `The One Show`, `Effie`, `ADC`, `LIA`, `Epica`, `Eurobest`.
 
-## Three Waves
+## Three Layers
 
-### Wave 1
+### 1. Mandatory Layer
 
-Это первая обязательная волна. Она покрывает основу:
-
-- дизайн-системы;
-- креативные платформы;
-- облако и digital-инфраструктуру;
-- сильнейшие публичные инженерные контуры брендов.
+Это обязательный слой. Он собирает главные компании и платформы, без которых нельзя серьезно наблюдать за современной средой рекламы, дизайна, digital и креативных коммуникаций.
 
 `Follow accounts`
 
@@ -39,6 +34,10 @@
 6. [microsoft](https://github.com/microsoft)
 7. [google](https://github.com/google)
 8. [figma](https://github.com/figma)
+9. [github](https://github.com/github)
+10. [openai](https://github.com/openai)
+11. [vercel](https://github.com/vercel)
+12. [cloudflare](https://github.com/cloudflare)
 
 `Star repos`
 
@@ -54,15 +53,15 @@
 10. [aws/aws-cli](https://github.com/aws/aws-cli)
 11. [google/styleguide](https://github.com/google/styleguide)
 12. [vercel/next.js](https://github.com/vercel/next.js)
+13. [cloudflare/pingora](https://github.com/cloudflare/pingora)
+14. [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
+15. [github/github-mcp-server](https://github.com/github/github-mcp-server)
 
-### Wave 2
+### 2. Cannes Layer
 
-Это вторая волна. Она расширяет контур в сторону:
+Это слой `Cannes Lions`: партнеры, участники публичной программы, технологические платформы, а также компании из жюри и креативно-маркетингового контура, у которых есть реальный GitHub-след.
 
-- медиа и платформ;
-- стратегии и AI;
-- агентской инженерии;
-- audience и data-слоя.
+Важно: не у всех партнеров и спикеров `Cannes Lions` есть живой GitHub, поэтому в слой включены только те, у кого GitHub действительно является рабочим публичным узлом.
 
 `Follow accounts`
 
@@ -88,40 +87,34 @@
 11. [mediamonks/muban](https://github.com/mediamonks/muban)
 12. [mediamonks/fast-image-sequence](https://github.com/mediamonks/fast-image-sequence)
 
-### Wave 3
+### 3. Award Ecosystem Layer
 
-Это третья волна. Она закрепляет внешний круг:
+Это слой `award ecosystem`: люди, компании, платформы и продуктовые узлы, которые полезны для наблюдения за более широким контуром `D&AD`, `Clio`, `The One Show`, `Effie`, `ADC`, `LIA`, `Epica`, `Eurobest`.
 
-- commerce и product;
-- developer platform;
-- AI tooling;
-- agency engineering assets;
-- long-tail digital infrastructure.
+Здесь GitHub чаще связан не с самими award-брендами, а с их средой:
+
+- агентствами;
+- design- и product-командами;
+- martech и media-tech;
+- commerce и digital-инфраструктурой.
 
 `Follow accounts`
 
 1. [Shopify](https://github.com/Shopify)
-2. [vercel](https://github.com/vercel)
-3. [cloudflare](https://github.com/cloudflare)
-4. [github](https://github.com/github)
-5. [openai](https://github.com/openai)
-6. [IBM](https://github.com/IBM)
+2. [IBM](https://github.com/IBM)
+3. [akqa](https://github.com/akqa)
 
 `Star repos`
 
 1. [IBM/plex](https://github.com/IBM/plex)
 2. [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia)
 3. [Shopify/liquid](https://github.com/Shopify/liquid)
-4. [cloudflare/pingora](https://github.com/cloudflare/pingora)
-5. [vercel/swr](https://github.com/vercel/swr)
-6. [google/zx](https://github.com/google/zx)
-7. [microsoft/markitdown](https://github.com/microsoft/markitdown)
-8. [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-9. [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
-10. [github/github-mcp-server](https://github.com/github/github-mcp-server)
-11. [mediamonks/frontend-coding-standards](https://github.com/mediamonks/frontend-coding-standards)
-12. [aws/serverless-application-model](https://github.com/aws/serverless-application-model)
-13. [linkedin/css-blocks](https://github.com/linkedin/css-blocks)
+4. [google/zx](https://github.com/google/zx)
+5. [microsoft/markitdown](https://github.com/microsoft/markitdown)
+6. [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+7. [mediamonks/frontend-coding-standards](https://github.com/mediamonks/frontend-coding-standards)
+8. [aws/serverless-application-model](https://github.com/aws/serverless-application-model)
+9. [linkedin/css-blocks](https://github.com/linkedin/css-blocks)
 
 ## Направления
 
@@ -132,88 +125,6 @@
 - `Диджитал`
 - `Дизайн`
 - `Креативные коммуникации`
-
-## Follow Accounts
-
-### Priority A
-
-1. [adobe](https://github.com/adobe)
-2. [AdobeDocs](https://github.com/AdobeDocs)
-3. [aws](https://github.com/aws)
-4. [Canva](https://github.com/Canva)
-5. [linkedin](https://github.com/linkedin)
-6. [microsoft](https://github.com/microsoft)
-7. [reddit](https://github.com/reddit)
-8. [Infosys](https://github.com/Infosys)
-9. [mediamonks](https://github.com/mediamonks)
-10. [google](https://github.com/google)
-
-### Priority B
-
-11. [figma](https://github.com/figma)
-12. [Accenture](https://github.com/Accenture)
-13. [salesforce](https://github.com/salesforce)
-14. [Netflix](https://github.com/Netflix)
-15. [Shopify](https://github.com/Shopify)
-16. [vercel](https://github.com/vercel)
-17. [cloudflare](https://github.com/cloudflare)
-18. [github](https://github.com/github)
-19. [openai](https://github.com/openai)
-20. [IBM](https://github.com/IBM)
-
-## Star Repositories
-
-### Design and Creative Systems
-
-1. [adobe/react-spectrum](https://github.com/adobe/react-spectrum)
-2. [adobe/leonardo](https://github.com/adobe/leonardo)
-3. [AdobeDocs/uxp-photoshop](https://github.com/AdobeDocs/uxp-photoshop)
-4. [google/material-design-icons](https://github.com/google/material-design-icons)
-5. [figma/plugin-samples](https://github.com/figma/plugin-samples)
-6. [figma/code-connect](https://github.com/figma/code-connect)
-7. [IBM/plex](https://github.com/IBM/plex)
-8. [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia)
-
-### Media, Platforms, and Audience Infrastructure
-
-9. [reddit/redditsans](https://github.com/reddit/redditsans)
-10. [reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)
-11. [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel)
-12. [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre)
-13. [linkedin/css-blocks](https://github.com/linkedin/css-blocks)
-14. [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey)
-15. [Netflix/eureka](https://github.com/Netflix/eureka)
-16. [aws/aws-cli](https://github.com/aws/aws-cli)
-17. [aws/aws-cdk](https://github.com/aws/aws-cdk)
-18. [aws/serverless-application-model](https://github.com/aws/serverless-application-model)
-
-### Digital Product and Web Stack
-
-19. [microsoft/vscode](https://github.com/microsoft/vscode)
-20. [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-21. [microsoft/markitdown](https://github.com/microsoft/markitdown)
-22. [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-23. [vercel/next.js](https://github.com/vercel/next.js)
-24. [vercel/swr](https://github.com/vercel/swr)
-25. [cloudflare/pingora](https://github.com/cloudflare/pingora)
-26. [Shopify/liquid](https://github.com/Shopify/liquid)
-27. [google/styleguide](https://github.com/google/styleguide)
-28. [google/zx](https://github.com/google/zx)
-
-### Strategy, AI, and Innovation Layer
-
-29. [Infosys/Infosys-Agentic-Foundry](https://github.com/Infosys/Infosys-Agentic-Foundry)
-30. [Infosys/Infosys-Responsible-AI-Toolkit](https://github.com/Infosys/Infosys-Responsible-AI-Toolkit)
-31. [Accenture/AmpliGraph](https://github.com/Accenture/AmpliGraph)
-32. [salesforce/LAVIS](https://github.com/salesforce/LAVIS)
-33. [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
-34. [github/github-mcp-server](https://github.com/github/github-mcp-server)
-
-### Agency and Experience Engineering Layer
-
-35. [mediamonks/muban](https://github.com/mediamonks/muban)
-36. [mediamonks/fast-image-sequence](https://github.com/mediamonks/fast-image-sequence)
-37. [mediamonks/frontend-coding-standards](https://github.com/mediamonks/frontend-coding-standards)
 
 ## Why These Targets
 

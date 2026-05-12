@@ -1,5 +1,5 @@
 param(
-  [ValidateSet("1", "2", "3", "all")]
+  [ValidateSet("1", "2", "3", "mandatory", "cannes", "awards", "all")]
   [string]$Wave = "all"
 )
 
@@ -11,7 +11,7 @@ $gh = Join-Path $env:USERPROFILE ".local\\bin\\gh-advhouse.cmd"
 # - followers: write
 # - starring: write
 
-$wave1FollowAccounts = @(
+$mandatoryFollowAccounts = @(
   "adobe",
   "AdobeDocs",
   "aws",
@@ -19,10 +19,14 @@ $wave1FollowAccounts = @(
   "linkedin",
   "microsoft",
   "google",
-  "figma"
+  "figma",
+  "github",
+  "openai",
+  "vercel",
+  "cloudflare"
 )
 
-$wave1StarRepos = @(
+$mandatoryStarRepos = @(
   "adobe/react-spectrum",
   "adobe/leonardo",
   "AdobeDocs/uxp-photoshop",
@@ -34,10 +38,13 @@ $wave1StarRepos = @(
   "aws/aws-cdk",
   "aws/aws-cli",
   "google/styleguide",
-  "vercel/next.js"
+  "vercel/next.js",
+  "cloudflare/pingora",
+  "openai/openai-cookbook",
+  "github/github-mcp-server"
 )
 
-$wave2FollowAccounts = @(
+$cannesFollowAccounts = @(
   "reddit",
   "Infosys",
   "mediamonks",
@@ -46,7 +53,7 @@ $wave2FollowAccounts = @(
   "Netflix"
 )
 
-$wave2StarRepos = @(
+$cannesStarRepos = @(
   "reddit/redditsans",
   "reddit/achilles-sdk",
   "linkedin/Liger-Kernel",
@@ -61,26 +68,19 @@ $wave2StarRepos = @(
   "mediamonks/fast-image-sequence"
 )
 
-$wave3FollowAccounts = @(
+$awardsFollowAccounts = @(
   "Shopify",
-  "vercel",
-  "cloudflare",
-  "github",
-  "openai",
-  "IBM"
+  "IBM",
+  "akqa"
 )
 
-$wave3StarRepos = @(
+$awardsStarRepos = @(
   "IBM/plex",
   "Shopify/react-native-skia",
   "Shopify/liquid",
-  "cloudflare/pingora",
-  "vercel/swr",
   "google/zx",
   "microsoft/markitdown",
   "microsoft/generative-ai-for-beginners",
-  "openai/openai-cookbook",
-  "github/github-mcp-server",
   "mediamonks/frontend-coding-standards",
   "aws/serverless-application-model",
   "linkedin/css-blocks"
@@ -88,24 +88,39 @@ $wave3StarRepos = @(
 
 switch ($Wave) {
   "1" {
-    $followAccounts = $wave1FollowAccounts
-    $starRepos = $wave1StarRepos
-    $waveLabel = "Wave 1"
+    $followAccounts = $mandatoryFollowAccounts
+    $starRepos = $mandatoryStarRepos
+    $waveLabel = "Mandatory layer"
   }
   "2" {
-    $followAccounts = $wave2FollowAccounts
-    $starRepos = $wave2StarRepos
-    $waveLabel = "Wave 2"
+    $followAccounts = $cannesFollowAccounts
+    $starRepos = $cannesStarRepos
+    $waveLabel = "Cannes layer"
   }
   "3" {
-    $followAccounts = $wave3FollowAccounts
-    $starRepos = $wave3StarRepos
-    $waveLabel = "Wave 3"
+    $followAccounts = $awardsFollowAccounts
+    $starRepos = $awardsStarRepos
+    $waveLabel = "Award ecosystem layer"
+  }
+  "mandatory" {
+    $followAccounts = $mandatoryFollowAccounts
+    $starRepos = $mandatoryStarRepos
+    $waveLabel = "Mandatory layer"
+  }
+  "cannes" {
+    $followAccounts = $cannesFollowAccounts
+    $starRepos = $cannesStarRepos
+    $waveLabel = "Cannes layer"
+  }
+  "awards" {
+    $followAccounts = $awardsFollowAccounts
+    $starRepos = $awardsStarRepos
+    $waveLabel = "Award ecosystem layer"
   }
   default {
-    $followAccounts = $wave1FollowAccounts + $wave2FollowAccounts + $wave3FollowAccounts
-    $starRepos = $wave1StarRepos + $wave2StarRepos + $wave3StarRepos
-    $waveLabel = "All waves"
+    $followAccounts = $mandatoryFollowAccounts + $cannesFollowAccounts + $awardsFollowAccounts
+    $starRepos = $mandatoryStarRepos + $cannesStarRepos + $awardsStarRepos
+    $waveLabel = "All layers"
   }
 }
 
