@@ -14,6 +14,7 @@
 - Понять, как предложить сотрудничество: [docs/partners.md](docs/partners.md)
 - Настроить GitHub-витрину и рабочий контур: [docs/github-showcase.md](docs/github-showcase.md)
 - Посмотреть рейтинговую систему: [docs/ranking-framework.md](docs/ranking-framework.md)
+- Открыть первый рейтинг недели: [docs/rankings/2026-05-12-top-20.md](docs/rankings/2026-05-12-top-20.md)
 - Открыть вселенную компаний: [docs/ranking-universe.md](docs/ranking-universe.md)
 - Прочитать первую подборку редакционных текстов: [docs/editorial/README.md](docs/editorial/README.md)
 - Посмотреть языковую политику публикаций: [docs/multilingual-publishing-policy.md](docs/multilingual-publishing-policy.md)
@@ -76,7 +77,7 @@
 - [ ] Добавить финальные публичные данные: логотип, social preview, ссылки и контакты.
 - [x] Собрать каркас еженедельного рейтинга и индексной модели.
 - [x] Опубликовать первую подборку текстов по направлениям проекта.
-- [ ] Запустить первую публичную публикацию Top 20 за неделю.
+- [x] Запустить первую публичную публикацию Top 20 за неделю.
 
 ## Партнерский вход
 
