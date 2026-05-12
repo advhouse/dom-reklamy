@@ -20,6 +20,7 @@
 Общее правило зафиксировано здесь:
 
 - [multilingual-publishing-policy.md](../multilingual-publishing-policy.md)
+- [voice-style.md](../voice-style.md)
 
 ## Направления
 
