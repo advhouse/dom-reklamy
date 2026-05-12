@@ -15,3 +15,4 @@
 - [2026-05-12-most-improved.md](./2026-05-12-most-improved.md)
 - [2026-05-12-index-note-platform-power.md](./2026-05-12-index-note-platform-power.md)
 - [2026-05-12-index-note-public-openness.md](./2026-05-12-index-note-public-openness.md)
+- [2026-05-12-index-note-technology-readiness.md](./2026-05-12-index-note-technology-readiness.md)
