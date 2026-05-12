@@ -14,6 +14,7 @@
 - Понять, как предложить сотрудничество: [docs/partners.md](docs/partners.md)
 - Настроить GitHub-витрину и рабочий контур: [docs/github-showcase.md](docs/github-showcase.md)
 - Открыть карту подписок по направлениям: [docs/github-direction-targets.md](docs/github-direction-targets.md)
+- Посмотреть карту внешнего круга: [docs/github-ecosystem-map.md](docs/github-ecosystem-map.md)
 - Посмотреть рейтинговую систему: [docs/ranking-framework.md](docs/ranking-framework.md)
 - Открыть первый рейтинг недели: [docs/rankings/2026-05-12-top-20.md](docs/rankings/2026-05-12-top-20.md)
 - Открыть вселенную компаний: [docs/ranking-universe.md](docs/ranking-universe.md)
@@ -96,6 +97,10 @@
 - дать партнеру понятный путь входа;
 - сделать участие видимым;
 - развести идеи, задачи и партнерские обращения по правильным каналам.
+
+Открытое приглашение к участию:
+
+- [outreach/github-open-invitation.md](outreach/github-open-invitation.md)
 
 ## Оформление GitHub
 

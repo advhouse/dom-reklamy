@@ -1,5 +1,5 @@
 param(
-  [ValidateSet("1", "2", "3", "mandatory", "cannes", "awards", "design", "pr", "digital", "all", "all-directions")]
+  [ValidateSet("1", "2", "3", "mandatory", "cannes", "awards", "design", "pr", "digital", "advertising", "media", "developers", "ai", "agi", "all", "all-directions")]
   [string]$Wave = "all",
   [switch]$ListOnly
 )
@@ -162,6 +162,93 @@ $digitalStarRepos = @(
   "openai/openai-cookbook"
 )
 
+$advertisingFollowAccounts = @(
+  "adobe",
+  "Canva",
+  "mediamonks",
+  "figma",
+  "linkedin",
+  "reddit",
+  "salesforce",
+  "Shopify"
+)
+
+$advertisingStarRepos = @(
+  "adobe/react-spectrum",
+  "Canva/rules_nodejs",
+  "mediamonks/muban",
+  "figma/code-connect",
+  "linkedin/Liger-Kernel",
+  "reddit/devvit",
+  "salesforce/LAVIS",
+  "Shopify/hydrogen"
+)
+
+$mediaFollowAccounts = @(
+  "reddit",
+  "spotify",
+  "Automattic",
+  "Netflix",
+  "vercel",
+  "cloudflare",
+  "github"
+)
+
+$mediaStarRepos = @(
+  "reddit/devvit",
+  "reddit/redditsans",
+  "spotify/basic-pitch",
+  "Automattic/jetpack",
+  "Netflix/eureka",
+  "vercel/next.js",
+  "cloudflare/cloudflared",
+  "github/docs"
+)
+
+$developersFollowAccounts = @(
+  "github",
+  "microsoft",
+  "google",
+  "aws",
+  "vercel",
+  "cloudflare",
+  "Shopify",
+  "pytorch"
+)
+
+$developersStarRepos = @(
+  "github/docs",
+  "microsoft/TypeScript",
+  "google/zx",
+  "aws/aws-cdk",
+  "vercel/ai",
+  "cloudflare/pingora",
+  "Shopify/liquid",
+  "pytorch/pytorch"
+)
+
+$aiFollowAccounts = @(
+  "openai",
+  "anthropics",
+  "mistralai",
+  "huggingface",
+  "meta-llama",
+  "pytorch",
+  "langchain-ai",
+  "microsoft"
+)
+
+$aiStarRepos = @(
+  "openai/openai-cookbook",
+  "anthropics/claude-cookbooks",
+  "mistralai/mistral-inference",
+  "huggingface/transformers",
+  "meta-llama/llama-models",
+  "pytorch/pytorch",
+  "langchain-ai/langchain",
+  "microsoft/autogen"
+)
+
 switch ($Wave) {
   "1" {
     $followAccounts = $mandatoryFollowAccounts
@@ -208,9 +295,34 @@ switch ($Wave) {
     $starRepos = $digitalStarRepos
     $waveLabel = "Digital direction"
   }
+  "advertising" {
+    $followAccounts = $advertisingFollowAccounts
+    $starRepos = $advertisingStarRepos
+    $waveLabel = "Advertising direction"
+  }
+  "media" {
+    $followAccounts = $mediaFollowAccounts
+    $starRepos = $mediaStarRepos
+    $waveLabel = "Media direction"
+  }
+  "developers" {
+    $followAccounts = $developersFollowAccounts
+    $starRepos = $developersStarRepos
+    $waveLabel = "Developers direction"
+  }
+  "ai" {
+    $followAccounts = $aiFollowAccounts
+    $starRepos = $aiStarRepos
+    $waveLabel = "AI direction"
+  }
+  "agi" {
+    $followAccounts = $aiFollowAccounts
+    $starRepos = $aiStarRepos
+    $waveLabel = "AGI horizon"
+  }
   "all-directions" {
-    $followAccounts = $designFollowAccounts + $prFollowAccounts + $digitalFollowAccounts
-    $starRepos = $designStarRepos + $prStarRepos + $digitalStarRepos
+    $followAccounts = $designFollowAccounts + $prFollowAccounts + $digitalFollowAccounts + $advertisingFollowAccounts + $mediaFollowAccounts + $developersFollowAccounts + $aiFollowAccounts
+    $starRepos = $designStarRepos + $prStarRepos + $digitalStarRepos + $advertisingStarRepos + $mediaStarRepos + $developersStarRepos + $aiStarRepos
     $waveLabel = "All working directions"
   }
   default {

@@ -9,6 +9,7 @@
 - [conference-application-template.md](conference-application-template.md)
 - [call-script.md](call-script.md)
 - [target-organizations.md](target-organizations.md)
+- [github-open-invitation.md](github-open-invitation.md)
 
 ## Правила
 
@@ -24,3 +25,4 @@
 - [ ] Утвердить partner email.
 - [ ] Выбрать 10 организаций для первого outreach.
 - [ ] Подготовить короткий bilingual one-pager.
+- [ ] Связать открытое приглашение с GitHub Discussions и публичными публикациями.
