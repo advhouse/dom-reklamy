@@ -26,3 +26,4 @@
 - [2026-05-12-pr-watch.md](./2026-05-12-pr-watch.md)
 - [2026-05-12-agency-watch.md](./2026-05-12-agency-watch.md)
 - [2026-05-12-index-note-agency-scale-vs-openness-and-technology.md](./2026-05-12-index-note-agency-scale-vs-openness-and-technology.md)
+- [2026-05-12-ranking-response-playbook.md](./2026-05-12-ranking-response-playbook.md)
