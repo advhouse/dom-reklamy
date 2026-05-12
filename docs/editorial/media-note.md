@@ -1,5 +1,7 @@
 # Media / Médias / Medios / Медиа / 媒体 / الإعلام
 
+![Media preview](../../assets/editorial/previews/media-preview.svg)
+
 ## English
 
 Media is no longer just a set of channels. It is the environment where attention is allocated, priced and converted into influence.

@@ -1,0 +1,20 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#150A14"/>
+  <rect x="36" y="36" width="1128" height="558" rx="28" fill="url(#bg)"/>
+  <circle cx="952" cy="168" r="138" fill="#FF99C8" fill-opacity="0.18"/>
+  <path d="M156 388C206 338 278 320 338 340C394 358 448 408 516 408C602 408 648 298 734 298C802 298 838 358 900 378C960 398 1020 378 1064 336" stroke="#FFD6E7" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="338" cy="340" r="12" fill="#FFD6E7"/>
+  <circle cx="516" cy="408" r="12" fill="#FFD6E7"/>
+  <circle cx="734" cy="298" r="12" fill="#FFD6E7"/>
+  <circle cx="900" cy="378" r="12" fill="#FFD6E7"/>
+  <rect x="108" y="140" width="188" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.14"/>
+  <text x="108" y="252" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700">PR</text>
+  <text x="108" y="308" fill="#FFE7F2" font-family="Segoe UI, Arial, sans-serif" font-size="26">Trust • Reputation • Public Dialogue</text>
+  <text x="108" y="172" fill="#FFF1F7" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Editorial Preview</text>
+  <defs>
+    <linearGradient id="bg" x1="84" y1="78" x2="1112" y2="564" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2A1126"/>
+      <stop offset="1" stop-color="#7A235A"/>
+    </linearGradient>
+  </defs>
+</svg>

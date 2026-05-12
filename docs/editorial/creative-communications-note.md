@@ -1,5 +1,7 @@
 # Creative Communications / Communications créatives / Comunicaciones creativas / Креативные коммуникации / 创意传播 / الاتصالات الإبداعية
 
+![Creative communications preview](../../assets/editorial/previews/creative-communications-preview.svg)
+
 ## English
 
 Creative communications are not valuable because they are unusual. They matter when they shift perception, change the tone of the conversation and reposition a project in culture.

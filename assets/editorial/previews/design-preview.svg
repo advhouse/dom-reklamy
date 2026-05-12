@@ -1,0 +1,19 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#16100A"/>
+  <rect x="36" y="36" width="1128" height="558" rx="28" fill="url(#bg)"/>
+  <circle cx="986" cy="146" r="128" fill="#F6BD60" fill-opacity="0.16"/>
+  <rect x="182" y="334" width="120" height="120" rx="24" fill="#FFF0D7" fill-opacity="0.18"/>
+  <rect x="336" y="274" width="120" height="180" rx="60" fill="#FFF0D7" fill-opacity="0.2"/>
+  <polygon points="548,454 642,274 736,454" fill="#FFF0D7" fill-opacity="0.22"/>
+  <circle cx="866" cy="360" r="94" fill="#FFF0D7" fill-opacity="0.24"/>
+  <rect x="108" y="140" width="188" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.14"/>
+  <text x="108" y="252" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700">Design</text>
+  <text x="108" y="308" fill="#FFF3DC" font-family="Segoe UI, Arial, sans-serif" font-size="26">Form • Clarity • Visual Meaning</text>
+  <text x="108" y="172" fill="#FFF8EB" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Editorial Preview</text>
+  <defs>
+    <linearGradient id="bg" x1="78" y1="74" x2="1114" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2C2012"/>
+      <stop offset="1" stop-color="#8F5A16"/>
+    </linearGradient>
+  </defs>
+</svg>

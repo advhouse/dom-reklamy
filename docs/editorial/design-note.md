@@ -1,5 +1,7 @@
 # Design / Design / Diseño / Дизайн / 设计 / التصميم
 
+![Design preview](../../assets/editorial/previews/design-preview.svg)
+
 ## English
 
 Design is not decoration applied after meaning. It is the method by which complexity becomes readable, trusted and memorable.

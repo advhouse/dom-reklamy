@@ -1,5 +1,7 @@
 # Digital / Numérique / Digital / Digital / 数字化 / الرقمي
 
+![Digital preview](../../assets/editorial/previews/digital-preview.svg)
+
 ## English
 
 Digital is no longer a department. It is the operating environment through which publication, distribution, analytics, coordination and memory now pass.

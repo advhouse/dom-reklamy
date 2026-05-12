@@ -1,0 +1,18 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#130A18"/>
+  <rect x="36" y="36" width="1128" height="558" rx="28" fill="url(#bg)"/>
+  <circle cx="978" cy="144" r="132" fill="#CDB4DB" fill-opacity="0.18"/>
+  <path d="M202 412C276 308 382 258 500 258C618 258 722 306 810 368C898 430 972 482 1042 470" stroke="#F6E7FF" stroke-width="12" stroke-linecap="round"/>
+  <path d="M202 412C270 430 336 438 406 438C552 438 674 404 780 360" stroke="#F6E7FF" stroke-opacity="0.35" stroke-width="8" stroke-linecap="round"/>
+  <rect x="108" y="140" width="188" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.14"/>
+  <text x="108" y="240" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700">Creative</text>
+  <text x="108" y="300" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700">Communications</text>
+  <text x="108" y="348" fill="#F3E8FF" font-family="Segoe UI, Arial, sans-serif" font-size="24">Narrative • Emotion • Shared Meaning</text>
+  <text x="108" y="172" fill="#FBF5FF" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Editorial Preview</text>
+  <defs>
+    <linearGradient id="bg" x1="72" y1="68" x2="1118" y2="562" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#251332"/>
+      <stop offset="1" stop-color="#6C3D8E"/>
+    </linearGradient>
+  </defs>
+</svg>

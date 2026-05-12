@@ -1,0 +1,17 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#081018"/>
+  <rect x="36" y="36" width="1128" height="558" rx="28" fill="url(#bg)"/>
+  <circle cx="936" cy="174" r="140" fill="#FFB703" fill-opacity="0.18"/>
+  <circle cx="1048" cy="102" r="78" fill="#FB8500" fill-opacity="0.22"/>
+  <path d="M108 468C232 378 346 338 452 348C558 358 646 434 744 446C842 458 944 404 1092 282" stroke="#FFD166" stroke-width="14" stroke-linecap="round"/>
+  <rect x="108" y="140" width="188" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.14"/>
+  <text x="108" y="252" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700">Advertising</text>
+  <text x="108" y="308" fill="#DCE8F3" font-family="Segoe UI, Arial, sans-serif" font-size="26">Attention • Culture • Brand Signal</text>
+  <text x="108" y="172" fill="#FFF5D8" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Editorial Preview</text>
+  <defs>
+    <linearGradient id="bg" x1="66" y1="70" x2="1118" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#102033"/>
+      <stop offset="1" stop-color="#1F3C88"/>
+    </linearGradient>
+  </defs>
+</svg>

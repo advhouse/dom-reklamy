@@ -1,5 +1,7 @@
 # Advertising / Publicite / Publicidad / Реклама / 广告 / الإعلان
 
+![Advertising preview](../../assets/editorial/previews/advertising-preview.svg)
+
 ## English
 
 Advertising is no longer won by volume alone. Audiences live inside overflow, so what matters now is not raw visibility but whether a brand enters culture with timing, clarity and consequence.

@@ -1,5 +1,7 @@
 # Strategy / Strategie / Estrategia / Стратегия / 战略 / الاستراتيجية
 
+![Strategy preview](../../assets/editorial/previews/strategy-preview.svg)
+
 ## English
 
 Strategy is the discipline of choice. Its role is not to rename the obvious but to decide what matters, where the project competes, and which paths must be refused.

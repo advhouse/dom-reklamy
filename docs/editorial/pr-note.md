@@ -1,5 +1,7 @@
 # PR / RP / RRPP / PR / 公关 / العلاقات العامة
 
+![PR preview](../../assets/editorial/previews/pr-preview.svg)
+
 ## English
 
 PR begins where self-promotion ends. Visibility without trust becomes noise, and trust without consistency collapses under pressure.

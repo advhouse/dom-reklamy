@@ -1,0 +1,24 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#07170E"/>
+  <rect x="36" y="36" width="1128" height="558" rx="28" fill="url(#bg)"/>
+  <circle cx="968" cy="160" r="136" fill="#95F9A8" fill-opacity="0.16"/>
+  <path d="M174 400H1030" stroke="#D9FFE1" stroke-width="10" stroke-linecap="round"/>
+  <path d="M274 296V504" stroke="#D9FFE1" stroke-width="10" stroke-linecap="round"/>
+  <path d="M470 246V504" stroke="#D9FFE1" stroke-width="10" stroke-linecap="round"/>
+  <path d="M666 198V504" stroke="#D9FFE1" stroke-width="10" stroke-linecap="round"/>
+  <path d="M862 144V504" stroke="#D9FFE1" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="274" cy="296" r="18" fill="#D9FFE1"/>
+  <circle cx="470" cy="246" r="18" fill="#D9FFE1"/>
+  <circle cx="666" cy="198" r="18" fill="#D9FFE1"/>
+  <circle cx="862" cy="144" r="18" fill="#D9FFE1"/>
+  <rect x="108" y="140" width="188" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.14"/>
+  <text x="108" y="252" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700">Digital</text>
+  <text x="108" y="308" fill="#E6FFEA" font-family="Segoe UI, Arial, sans-serif" font-size="26">Systems • Interfaces • Continuous Motion</text>
+  <text x="108" y="172" fill="#F0FFF3" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Editorial Preview</text>
+  <defs>
+    <linearGradient id="bg" x1="74" y1="72" x2="1114" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10331A"/>
+      <stop offset="1" stop-color="#1F7A3A"/>
+    </linearGradient>
+  </defs>
+</svg>
