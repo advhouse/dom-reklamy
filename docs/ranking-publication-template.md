@@ -8,6 +8,21 @@
 
 `Week of YYYY-MM-DD`
 
+## Language Rule
+
+Каждая weekly ranking publication должна содержать шесть языковых блоков:
+
+- Arabic
+- Chinese
+- English
+- French
+- Russian
+- Spanish
+
+Политика зафиксирована здесь:
+
+- [multilingual-publishing-policy.md](./multilingual-publishing-policy.md)
+
 ## One-line Summary
 
 Одна короткая фраза:

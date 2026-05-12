@@ -15,6 +15,7 @@
 - Посмотреть рейтинговую систему: [docs/ranking-framework.md](docs/ranking-framework.md)
 - Открыть вселенную компаний: [docs/ranking-universe.md](docs/ranking-universe.md)
 - Прочитать первую редакционную волну: [docs/editorial/README.md](docs/editorial/README.md)
+- Посмотреть языковую политику публикаций: [docs/multilingual-publishing-policy.md](docs/multilingual-publishing-policy.md)
 
 ## О проекте / About
 
