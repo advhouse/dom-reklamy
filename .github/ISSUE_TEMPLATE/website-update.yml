@@ -1,0 +1,20 @@
+name: Website or showcase update
+description: Improve the public GitHub showcase, website copy, structure, or presentation.
+title: "Website: "
+labels:
+  - website
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What should change
+      placeholder: What is weak, missing, outdated, or unclear?
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Desired outcome
+      placeholder: What should the visitor understand or be able to do after this change?
+    validations:
+      required: true

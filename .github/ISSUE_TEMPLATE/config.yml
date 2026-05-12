@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Partnership discussion
+    url: https://github.com/advhouse/dom-reklamy/discussions
+    about: Use Discussions for open collaboration, partnership ideas, and non-task conversations.
+  - name: Project website
+    url: https://advhouse.com.ru/
+    about: Review the current public website and project positioning.

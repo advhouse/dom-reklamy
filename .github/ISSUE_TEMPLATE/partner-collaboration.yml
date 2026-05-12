@@ -1,0 +1,41 @@
+name: Partnership collaboration
+description: Offer a collaboration, event, partnership, or joint initiative.
+title: "Partner: "
+labels:
+  - partnership
+body:
+  - type: input
+    id: organization
+    attributes:
+      label: Organization or partner name
+      placeholder: Who is reaching out?
+    validations:
+      required: true
+  - type: dropdown
+    id: collaboration_type
+    attributes:
+      label: Collaboration type
+      options:
+        - Partnership idea
+        - Event or speaking
+        - Content or media
+        - Design or branding
+        - Technical or digital collaboration
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: Describe the idea, support request, or partnership format.
+      placeholder: What do you propose and what would a successful next step look like?
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact
+      placeholder: Email, website, or GitHub profile
+    validations:
+      required: true

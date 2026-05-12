@@ -1,0 +1,31 @@
+name: Content or material
+description: Propose a text, media asset, presentation, reference, or useful project material.
+title: "Content: "
+labels:
+  - content
+body:
+  - type: dropdown
+    id: material_type
+    attributes:
+      label: Material type
+      options:
+        - Text or copy
+        - Presentation
+        - Media asset
+        - Reference or link
+        - Website content
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      placeholder: What is being proposed and where should it be used?
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source or link
+      placeholder: Optional but recommended
