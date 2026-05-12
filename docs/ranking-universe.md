@@ -11,18 +11,18 @@
 | # | Company | Layer | Primary Domain | Ranking Scope |
 | --- | --- | --- | --- | --- |
 | 1 | Accenture Song | Cannes | Advertising transformation | Strategy, Digital, Creative |
-| 2 | WPP | Mandatory | Global agency group | Advertising, Creative, Media |
-| 3 | Publicis Groupe | Mandatory | Global communications group | Advertising, Media, Digital |
-| 4 | Omnicom | Mandatory | Global marketing group | Advertising, Media, PR |
+| 2 | WPP | Mandatory | International agency group | Advertising, Creative, Media |
+| 3 | Publicis Groupe | Mandatory | International communications group | Advertising, Media, Digital |
+| 4 | Omnicom | Mandatory | International marketing group | Advertising, Media, PR |
 | 5 | dentsu | Mandatory | Integrated growth partner | Advertising, Media, Digital |
-| 6 | Havas | Award ecosystem | Global communications group | Advertising, PR, Media |
+| 6 | Havas | Award ecosystem | International communications group | Advertising, PR, Media |
 | 7 | Monks | Cannes | Digital-first marketing and technology | Digital, Creative, Tech |
 | 8 | Stagwell | Award ecosystem | Digital-first marketing network | Strategy, Digital, Media |
 | 9 | Serviceplan Group | Award ecosystem | Independent agency group | Creative, Strategy |
 | 10 | Project Worldwide | Award ecosystem | Independent agency group | Creative, Experiential |
 | 11 | Quad | Award ecosystem | Marketing experience company | Commerce, Media, Production |
 | 12 | Advantage Solutions | Award ecosystem | Commerce and retail activation | Commerce, Shopper, Retail |
-| 13 | VML | Mandatory | Global creative network | Advertising, Creative |
+| 13 | VML | Mandatory | International creative network | Advertising, Creative |
 | 14 | Ogilvy | Mandatory | Creative network | Advertising, PR, Strategy |
 | 15 | AKQA | Award ecosystem | Design and innovation agency | Design, Digital, Innovation |
 | 16 | Grey | Mandatory | Creative network | Advertising |
@@ -33,7 +33,7 @@
 | 21 | FCB | Mandatory | Creative network | Advertising |
 | 22 | Leo Burnett | Mandatory | Creative network | Advertising |
 | 23 | Saatchi & Saatchi | Mandatory | Creative network | Advertising |
-| 24 | Publicis Worldwide | Mandatory | Creative network | Advertising, Global brand work |
+| 24 | Publicis Worldwide | Mandatory | Creative network | Advertising, International brand work |
 | 25 | Digitas | Mandatory | Digital marketing network | Digital, CRM, Data |
 | 26 | Razorfish | Mandatory | Experience and digital agency | Digital, Experience |
 | 27 | Droga5 | Cannes | Creative agency | Creative, Strategy |
@@ -56,11 +56,11 @@
 | 44 | Merkle | Mandatory | Customer experience and data | CRM, Commerce, Data |
 | 45 | Epsilon | Mandatory | Data-driven marketing platform | Data, Identity, Marketing tech |
 | 46 | Edelman | Award ecosystem | Strategic communications firm | PR, Reputation |
-| 47 | Burson | Cannes | Global communications agency | PR, Reputation |
-| 48 | Weber Shandwick | Award ecosystem | Global communications agency | PR, Influence |
-| 49 | FleishmanHillard | Award ecosystem | Global communications agency | PR, Corporate |
+| 47 | Burson | Cannes | International communications agency | PR, Reputation |
+| 48 | Weber Shandwick | Award ecosystem | International communications agency | PR, Influence |
+| 49 | FleishmanHillard | Award ecosystem | International communications agency | PR, Corporate |
 | 50 | Ketchum | Award ecosystem | Communications consultancy | PR, Brand communications |
-| 51 | Golin | Award ecosystem | Global PR agency | PR, Brand |
+| 51 | Golin | Award ecosystem | International PR agency | PR, Brand |
 | 52 | MSL | Award ecosystem | Public relations network | PR |
 | 53 | Brunswick Group | Award ecosystem | Corporate advisory and communications | Reputation, Corporate |
 | 54 | APCO Worldwide | Award ecosystem | Public affairs and communications | Policy, Reputation |
@@ -106,7 +106,7 @@
 | 94 | PubMatic | Award ecosystem | Adtech infrastructure | Programmatic |
 | 95 | Cloudflare | Mandatory | Internet infrastructure | Platform, Performance |
 | 96 | Vercel | Mandatory | Web infrastructure | Digital product, Publishing |
-| 97 | JCDecaux | Cannes | Global OOH company | OOH, Public space |
+| 97 | JCDecaux | Cannes | International OOH company | OOH, Public space |
 | 98 | Clear Channel Outdoor | Award ecosystem | OOH media company | OOH |
 | 99 | Ströer | Award ecosystem | OOH and digital media | OOH, Media |
 | 100 | Lamar Advertising | Award ecosystem | OOH media company | OOH |
