@@ -1,0 +1,52 @@
+name: Ranking review request
+description: Request a factual review of a company position in the weekly ranking.
+title: "[Ranking Review] "
+labels:
+  - documentation
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form only if you believe there is a factual error in a published ranking or in the underlying public evidence.
+        
+        This form is not for disagreement by opinion alone.
+  - type: input
+    id: company
+    attributes:
+      label: Company or brand
+      description: Which company is this review request about?
+      placeholder: Company name
+    validations:
+      required: true
+  - type: input
+    id: ranking
+    attributes:
+      label: Ranking publication
+      description: Reference the ranking week or publication title.
+      placeholder: Weekly ranking YYYY-MM-DD
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What appears to be factually incorrect
+      description: Describe the specific factual point that should be reviewed.
+      placeholder: State the exact item, score signal, or public claim that appears incorrect.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Public evidence
+      description: Provide public sources or references that support the requested review.
+      placeholder: Link public sources, filings, articles, or official statements.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected correction
+      description: Explain what correction you believe is justified.
+      placeholder: Describe the correction you believe should be made.
+    validations:
+      required: true
