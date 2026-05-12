@@ -13,6 +13,7 @@
 - Открыть единый стиль речи проекта: [docs/voice-style.md](docs/voice-style.md)
 - Понять, как предложить сотрудничество: [docs/partners.md](docs/partners.md)
 - Настроить GitHub-витрину и рабочий контур: [docs/github-showcase.md](docs/github-showcase.md)
+- Открыть карту подписок по направлениям: [docs/github-direction-targets.md](docs/github-direction-targets.md)
 - Посмотреть рейтинговую систему: [docs/ranking-framework.md](docs/ranking-framework.md)
 - Открыть первый рейтинг недели: [docs/rankings/2026-05-12-top-20.md](docs/rankings/2026-05-12-top-20.md)
 - Открыть вселенную компаний: [docs/ranking-universe.md](docs/ranking-universe.md)

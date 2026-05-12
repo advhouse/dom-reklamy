@@ -1,6 +1,7 @@
 param(
-  [ValidateSet("1", "2", "3", "mandatory", "cannes", "awards", "all")]
-  [string]$Wave = "all"
+  [ValidateSet("1", "2", "3", "mandatory", "cannes", "awards", "design", "pr", "digital", "all", "all-directions")]
+  [string]$Wave = "all",
+  [switch]$ListOnly
 )
 
 $ErrorActionPreference = "Stop"
@@ -86,6 +87,81 @@ $awardsStarRepos = @(
   "linkedin/css-blocks"
 )
 
+$designFollowAccounts = @(
+  "adobe",
+  "figma",
+  "Canva",
+  "canva-public",
+  "canva-sdks",
+  "mui",
+  "IBM",
+  "primer",
+  "Shopify",
+  "google"
+)
+
+$designStarRepos = @(
+  "adobe/react-spectrum",
+  "adobe/spectrum-css",
+  "figma/plugin-samples",
+  "figma/code-connect",
+  "figma/community-resources",
+  "mui/material-ui",
+  "IBM/plex",
+  "primer/react",
+  "Shopify/react-native-skia",
+  "google/material-design-icons"
+)
+
+$prFollowAccounts = @(
+  "reddit",
+  "linkedin",
+  "mediamonks",
+  "HubSpot",
+  "Automattic",
+  "spotify",
+  "salesforce"
+)
+
+$prStarRepos = @(
+  "reddit/devvit",
+  "reddit/redditsans",
+  "linkedin/rest.li",
+  "datahub-project/datahub",
+  "HubSpot/HubSpot-public-api-spec-collection",
+  "HubSpot/slack-client",
+  "Automattic/jetpack",
+  "spotify/basic-pitch",
+  "salesforce/LAVIS",
+  "mediamonks/muban"
+)
+
+$digitalFollowAccounts = @(
+  "vercel",
+  "cloudflare",
+  "Shopify",
+  "microsoft",
+  "google",
+  "aws",
+  "openai",
+  "github",
+  "salesforce",
+  "figma"
+)
+
+$digitalStarRepos = @(
+  "vercel/next.js",
+  "vercel/ai",
+  "cloudflare/pingora",
+  "cloudflare/cloudflared",
+  "Shopify/liquid",
+  "Shopify/hydrogen",
+  "microsoft/TypeScript",
+  "aws/aws-cdk",
+  "google/zx",
+  "openai/openai-cookbook"
+)
+
 switch ($Wave) {
   "1" {
     $followAccounts = $mandatoryFollowAccounts
@@ -117,6 +193,26 @@ switch ($Wave) {
     $starRepos = $awardsStarRepos
     $waveLabel = "Award ecosystem layer"
   }
+  "design" {
+    $followAccounts = $designFollowAccounts
+    $starRepos = $designStarRepos
+    $waveLabel = "Design direction"
+  }
+  "pr" {
+    $followAccounts = $prFollowAccounts
+    $starRepos = $prStarRepos
+    $waveLabel = "PR direction"
+  }
+  "digital" {
+    $followAccounts = $digitalFollowAccounts
+    $starRepos = $digitalStarRepos
+    $waveLabel = "Digital direction"
+  }
+  "all-directions" {
+    $followAccounts = $designFollowAccounts + $prFollowAccounts + $digitalFollowAccounts
+    $starRepos = $designStarRepos + $prStarRepos + $digitalStarRepos
+    $waveLabel = "All working directions"
+  }
   default {
     $followAccounts = $mandatoryFollowAccounts + $cannesFollowAccounts + $awardsFollowAccounts
     $starRepos = $mandatoryStarRepos + $cannesStarRepos + $awardsStarRepos
@@ -124,8 +220,20 @@ switch ($Wave) {
   }
 }
 
+$followAccounts = $followAccounts | Select-Object -Unique
+$starRepos = $starRepos | Select-Object -Unique
+
 Write-Host "Running $waveLabel"
 Write-Host ""
+
+if ($ListOnly) {
+  Write-Host "Accounts to follow:"
+  $followAccounts | ForEach-Object { Write-Host "- $_" }
+  Write-Host ""
+  Write-Host "Repositories to star:"
+  $starRepos | ForEach-Object { Write-Host "- $_" }
+  exit 0
+}
 
 Write-Host "Following accounts..."
 foreach ($account in $followAccounts) {
@@ -133,7 +241,7 @@ foreach ($account in $followAccounts) {
     & $gh api "/user/following/$account" --method PUT | Out-Null
     Write-Host "FOLLOW OK: $account"
   } catch {
-    Write-Host "FOLLOW FAIL: $account"
+    Write-Host "FOLLOW FAIL: $account :: $($_.Exception.Message)"
   }
 }
 
@@ -144,6 +252,6 @@ foreach ($repo in $starRepos) {
     & $gh api "/user/starred/$repo" --method PUT | Out-Null
     Write-Host "STAR OK: $repo"
   } catch {
-    Write-Host "STAR FAIL: $repo"
+    Write-Host "STAR FAIL: $repo :: $($_.Exception.Message)"
   }
 }
