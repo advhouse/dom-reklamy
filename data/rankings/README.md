@@ -11,6 +11,7 @@
 - `2026-05-12-index-technology-readiness.csv`
 - `2026-05-12-top-5-platform-movers.csv`
 - `2026-05-12-index-agency-openness-technology.csv`
+- `2026-05-12-five-pillars-matrix.csv`
 
 ## Назначение
 
@@ -21,3 +22,4 @@
 - `index-technology-readiness`: опора для индекса технологической зрелости;
 - `top-5-platform-movers`: опора для среза platform movers;
 - `index-agency-openness-technology`: сравнительная таблица для агентского индексного разбора.
+- `five-pillars-matrix`: операционная матрица покрытия компаний по пяти столпам.

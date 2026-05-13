@@ -80,6 +80,11 @@
 - [Technology readiness table](../../data/rankings/2026-05-12-index-technology-readiness.csv)
 - [Platform movers table](../../data/rankings/2026-05-12-top-5-platform-movers.csv)
 - [Agency / openness / technology table](../../data/rankings/2026-05-12-index-agency-openness-technology.csv)
+- [Five pillars matrix](../../data/rankings/2026-05-12-five-pillars-matrix.csv)
+
+## 8. Операционная карта
+
+- [Матрица выпуска по пяти столпам](./2026-05-12-five-pillars-matrix.md)
 
 ## Что показывает эта карта
 
