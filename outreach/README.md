@@ -10,6 +10,7 @@
 - [call-script.md](call-script.md)
 - [target-organizations.md](target-organizations.md)
 - [github-open-invitation.md](github-open-invitation.md)
+- [../docs/outreach-integration-loop.md](../docs/outreach-integration-loop.md)
 
 ## Правила
 
@@ -19,10 +20,11 @@
 - Для публичных материалов использовать только утвержденные контакты.
 - Фиксировать follow-up в GitHub Issue `partner-lead`, если это можно делать публично.
 - Держать единый голос проекта по [docs/voice-style.md](../docs/voice-style.md).
+- Держать весь внешний контактный поток привязанным к одному из пяти столпов проекта.
 
 ## Next steps
 
 - [ ] Утвердить partner email.
-- [ ] Выбрать 10 организаций для первого outreach.
+- [ ] Выбрать первые организации по каждому из пяти столпов.
 - [ ] Подготовить короткий bilingual one-pager.
 - [ ] Связать открытое приглашение с GitHub Discussions и публичными публикациями.
