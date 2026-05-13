@@ -88,7 +88,7 @@
 
 Если продолжать этот цикл дальше, логичный порядок такой:
 
-1. добрать `VML` и `Netflix Ads`;
-2. добрать `Spotify Advertising` и `HubSpot`;
-3. отдельно усилить `Shopify`, `Cloudflare`, `Vercel`;
+1. добрать `Spotify Advertising` и `HubSpot`;
+2. отдельно усилить `Shopify`, `Cloudflare`, `Vercel`;
+3. затем закрыть `Automattic` и `IBM Plex`;
 4. потом уже выравнивать столпы между собой.
