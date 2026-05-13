@@ -31,3 +31,4 @@
 - [2026-05-12-top-5-technology-readiness.md](./2026-05-12-top-5-technology-readiness.md)
 - [2026-05-12-top-5-distribution-power.md](./2026-05-12-top-5-distribution-power.md)
 - [2026-05-12-top-5-creative-strength.md](./2026-05-12-top-5-creative-strength.md)
+- [2026-05-12-top-5-market-influence.md](./2026-05-12-top-5-market-influence.md)
