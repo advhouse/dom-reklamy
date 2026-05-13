@@ -12,6 +12,10 @@
 - [Most Improved](./2026-05-12-most-improved.md)
 - [Top 5 platform movers](./2026-05-12-top-5-platform-movers.md)
 
+## Архитектурная сводка
+
+- [Пять столпов / сводка дня](./2026-05-12-five-pillars-summary.md)
+
 ## 2. Короткие Top 5 по индексам
 
 - [Top 5 public openness leaders](./2026-05-12-top-5-public-openness.md)
