@@ -6,4 +6,18 @@
 
 - `2026-05-12-top-20-scorecards.csv`
 - `2026-05-12-sources.md`
+- `2026-05-12-most-improved.csv`
+- `2026-05-12-index-public-openness.csv`
+- `2026-05-12-index-technology-readiness.csv`
+- `2026-05-12-top-5-platform-movers.csv`
 - `2026-05-12-index-agency-openness-technology.csv`
+
+## Назначение
+
+- `top-20-scorecards`: сводная рабочая таблица рейтинга;
+- `sources`: список источников недели;
+- `most-improved`: отдельная таблица динамики;
+- `index-public-openness`: опора для индекса публичной открытости;
+- `index-technology-readiness`: опора для индекса технологической зрелости;
+- `top-5-platform-movers`: опора для среза platform movers;
+- `index-agency-openness-technology`: сравнительная таблица для агентского индексного разбора.
