@@ -81,6 +81,7 @@ El `2026-05-12`, cada pilar produjo su propia capa visible de movimiento. Medios
 - [Advertising watch](./2026-05-12-advertising-watch.md)
 - [Top 5 creative strength leaders](./2026-05-12-top-5-creative-strength.md)
 - [Top 5 agency, platform commerce and market execution leaders](./2026-05-12-top-5-agency-platform-commerce-and-execution.md)
+- [Top 5 holding scale, festival visibility and operating clarity leaders](./2026-05-12-top-5-holding-scale-festival-visibility-and-operating-clarity.md)
 
 Опорные игроки:
 
