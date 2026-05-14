@@ -19,6 +19,7 @@
 - `2026-05-12-index-holding-scale-festival-visibility-and-operating-clarity.csv`
 - `2026-05-12-index-platform-attention-culture-and-advertiser-access.csv`
 - `2026-05-12-index-creative-tooling-workflow-adoption-and-public-visibility.csv`
+- `2026-05-12-next-cycle-watchpoints.csv`
 
 ## Назначение
 
@@ -37,3 +38,4 @@
 - `index-holding-scale-festival-visibility-and-operating-clarity`: опора для слоя, где холдинговый масштаб проверяется фестивальной видимостью и рабочей ясностью.
 - `index-platform-attention-culture-and-advertiser-access`: опора для слоя, где внимание, культура и рекламный доступ работают как одна среда.
 - `index-creative-tooling-workflow-adoption-and-public-visibility`: опора для слоя, где creative-tech проверяется внедрением и публичной читаемостью.
+- `next-cycle-watchpoints`: короткая операционная карта для старта следующего цикла наблюдения.

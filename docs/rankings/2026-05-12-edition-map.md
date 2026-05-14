@@ -15,6 +15,7 @@
 ## Архитектурная сводка
 
 - [Пять столпов / сводка дня](./2026-05-12-five-pillars-summary.md)
+- [Закрытие выпуска и следующий цикл](./2026-05-12-edition-closeout-and-next-cycle.md)
 
 ## 2. Короткие Top 5 по индексам
 
@@ -102,6 +103,7 @@
 - [Platform attention, culture and advertiser access table](../../data/rankings/2026-05-12-index-platform-attention-culture-and-advertiser-access.csv)
 - [Creative tooling, workflow adoption and public visibility table](../../data/rankings/2026-05-12-index-creative-tooling-workflow-adoption-and-public-visibility.csv)
 - [Five pillars matrix](../../data/rankings/2026-05-12-five-pillars-matrix.csv)
+- [Next cycle watchpoints](../../data/rankings/2026-05-12-next-cycle-watchpoints.csv)
 
 ## 8. Операционная карта
 
