@@ -47,6 +47,7 @@ El `2026-05-12`, cada pilar produjo su propia capa visible de movimiento. Medios
 Ключевой срез:
 
 - [Media watch](./2026-05-12-media-watch.md)
+- [Top 5 interface and publishing infrastructure leaders](./2026-05-12-top-5-interface-and-publishing-infrastructure.md)
 
 Лидеры внимания:
 
@@ -91,6 +92,7 @@ El `2026-05-12`, cada pilar produjo su propia capa visible de movimiento. Medios
 
 - [Design watch](./2026-05-12-design-watch.md)
 - [Top 5 public openness leaders](./2026-05-12-top-5-public-openness.md)
+- [Индексное пояснение по interface and publishing infrastructure](./2026-05-12-index-note-interface-and-publishing-infrastructure.md)
 
 Опорные игроки:
 
@@ -107,6 +109,7 @@ El `2026-05-12`, cada pilar produjo su propia capa visible de movimiento. Medios
 - [AI watch](./2026-05-12-ai-watch.md)
 - [Developer watch](./2026-05-12-developer-watch.md)
 - [Top 5 technology readiness leaders](./2026-05-12-top-5-technology-readiness.md)
+- [Top 5 interface and publishing infrastructure leaders](./2026-05-12-top-5-interface-and-publishing-infrastructure.md)
 
 Опорные игроки:
 

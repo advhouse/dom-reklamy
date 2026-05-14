@@ -20,9 +20,9 @@ Omnicom,advertising,agency,yes,yes,agency-watch,agency-scale-vs-openness-and-tec
 Ogilvy,advertising,agency,yes,yes,agency-watch,,festival-presence
 Spotify Advertising,media,advertising,yes,yes,media-watch,,distribution-power
 OpenAI,digital,ai,no,yes,ai-watch,, 
-Cloudflare,digital,developers,no,yes,developer-watch,, 
-Vercel,digital,developers,no,no,developer-watch,, 
+Cloudflare,digital,developers,no,yes,developer-watch,interface-and-publishing-infrastructure,interface-and-publishing-infrastructure
+Vercel,digital,developers,no,yes,developer-watch,interface-and-publishing-infrastructure,interface-and-publishing-infrastructure
 HubSpot,pr,digital,no,yes,pr-watch,, 
-Automattic,media,digital,no,no,media-watch|pr-watch,, 
-Shopify,design,digital,no,yes,design-watch|developer-watch,, 
-IBM Plex,design,design,no,no,design-watch,, 
+Automattic,media,digital,no,yes,media-watch|pr-watch,interface-and-publishing-infrastructure,interface-and-publishing-infrastructure
+Shopify,design,digital,no,yes,design-watch|developer-watch,interface-and-publishing-infrastructure,interface-and-publishing-infrastructure
+IBM Plex,design,design,no,yes,design-watch,public-openness|interface-and-publishing-infrastructure,

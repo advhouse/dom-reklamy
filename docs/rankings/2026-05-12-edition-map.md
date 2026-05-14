@@ -25,6 +25,7 @@
 - [Top 5 market influence leaders](./2026-05-12-top-5-market-influence.md)
 - [Top 5 festival presence leaders](./2026-05-12-top-5-festival-presence.md)
 - [Top 5 reputation and trust leaders](./2026-05-12-top-5-reputation-and-trust.md)
+- [Top 5 interface and publishing infrastructure leaders](./2026-05-12-top-5-interface-and-publishing-infrastructure.md)
 
 ## 3. Индексные пояснения
 
@@ -33,6 +34,7 @@
 - [Почему технологическая зрелость вышла вперед](./2026-05-12-index-note-technology-readiness.md)
 - [Почему одного агентского масштаба уже недостаточно](./2026-05-12-index-note-agency-scale-vs-openness-and-technology.md)
 - [Почему репутация и доверие по-прежнему меняют результат](./2026-05-12-index-note-reputation-and-trust.md)
+- [Почему слой interface and publishing infrastructure стал важнее](./2026-05-12-index-note-interface-and-publishing-infrastructure.md)
 
 ## 4. Наблюдательные срезы
 
@@ -80,6 +82,7 @@
 - [Technology readiness table](../../data/rankings/2026-05-12-index-technology-readiness.csv)
 - [Platform movers table](../../data/rankings/2026-05-12-top-5-platform-movers.csv)
 - [Agency / openness / technology table](../../data/rankings/2026-05-12-index-agency-openness-technology.csv)
+- [Interface and publishing infrastructure table](../../data/rankings/2026-05-12-index-interface-and-publishing-infrastructure.csv)
 - [Five pillars matrix](../../data/rankings/2026-05-12-five-pillars-matrix.csv)
 
 ## 8. Операционная карта
