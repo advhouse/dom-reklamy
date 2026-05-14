@@ -21,6 +21,7 @@
 - `2026-05-12-index-creative-tooling-workflow-adoption-and-public-visibility.csv`
 - `2026-05-12-next-cycle-watchpoints.csv`
 - `2026-05-14-watchpoint-scan.csv`
+- `2026-05-14-ranking-movement-brief.csv`
 - `2026-05-14-sources.md`
 
 ## Назначение
@@ -42,4 +43,5 @@
 - `index-creative-tooling-workflow-adoption-and-public-visibility`: опора для слоя, где creative-tech проверяется внедрением и публичной читаемостью.
 - `next-cycle-watchpoints`: короткая операционная карта для старта следующего цикла наблюдения.
 - `2026-05-14-watchpoint-scan`: дневной скан свежих сигналов по верхним watchpoints.
+- `2026-05-14-ranking-movement-brief`: краткий бриф, который переводит watchpoints в давление на перестановку рейтинга.
 - `2026-05-14-sources`: список официальных источников для нового скана.

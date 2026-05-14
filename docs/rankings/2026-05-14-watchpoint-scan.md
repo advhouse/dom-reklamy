@@ -64,6 +64,7 @@ Los watchpoints más fuertes ahora son TikTok, Amazon Ads, Canva, OpenAI, Salesf
 
 ## Связанные материалы
 
+- [./2026-05-14-ranking-movement-brief.md](./2026-05-14-ranking-movement-brief.md)
 - [./2026-05-12-edition-closeout-and-next-cycle.md](./2026-05-12-edition-closeout-and-next-cycle.md)
 - [../../data/rankings/2026-05-14-watchpoint-scan.csv](../../data/rankings/2026-05-14-watchpoint-scan.csv)
 - [../../data/rankings/2026-05-14-sources.md](../../data/rankings/2026-05-14-sources.md)
