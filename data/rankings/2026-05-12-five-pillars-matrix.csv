@@ -7,18 +7,18 @@ Microsoft,digital,ai,yes,yes,developer-watch|ai-watch,technology-readiness|ai-wo
 Publicis Groupe,advertising,pr,yes,yes,agency-watch|advertising-watch,agency-scale-vs-openness-and-technology|reputation-and-trust|agency-platform-commerce-and-execution|holding-scale-festival-visibility-and-operating-clarity,creative-strength|market-influence|festival-presence|reputation-and-trust|agency-platform-commerce-and-execution|holding-scale-festival-visibility-and-operating-clarity
 LinkedIn,pr,digital,yes,yes,pr-watch|platform-movers,public-openness|reputation-and-trust|public-communication-systems|ai-workflow-and-public-response,distribution-power|reputation-and-trust|public-communication-systems|ai-workflow-and-public-response
 Salesforce,digital,pr,yes,yes,pr-watch|ai-watch,technology-readiness|ai-workflow-and-public-response,technology-readiness|ai-workflow-and-public-response
-Meta,media,advertising,yes,yes,platform-movers,platform-power|market-influence,distribution-power|market-influence
+Meta,media,advertising,yes,yes,platform-movers,platform-power|market-influence|platform-attention-culture-and-advertiser-access,distribution-power|market-influence|platform-attention-culture-and-advertiser-access
 Monks,advertising,pr,yes,yes,agency-watch|pr-watch,agency-scale-vs-openness-and-technology|public-openness|agency-platform-commerce-and-execution,creative-strength|festival-presence|public-openness|agency-platform-commerce-and-execution
-TikTok,media,advertising,yes,yes,platform-movers,platform-power,distribution-power
-Reddit,media,pr,yes,yes,media-watch|pr-watch,public-openness,public-openness
+TikTok,media,advertising,yes,yes,platform-movers,platform-power|platform-attention-culture-and-advertiser-access,distribution-power|platform-attention-culture-and-advertiser-access
+Reddit,media,pr,yes,yes,media-watch|pr-watch,public-openness|platform-attention-culture-and-advertiser-access,public-openness|platform-attention-culture-and-advertiser-access
 WPP,advertising,agency,yes,yes,agency-watch,agency-scale-vs-openness-and-technology|market-influence|holding-scale-festival-visibility-and-operating-clarity,market-influence|festival-presence|holding-scale-festival-visibility-and-operating-clarity
 Figma,design,digital,yes,yes,design-watch|ai-watch,public-openness|technology-readiness,public-openness|technology-readiness|creative-strength
 VML,advertising,agency,yes,yes,agency-watch,public-communication-systems,market-influence|public-communication-systems
 Dentsu Creative,advertising,agency,yes,yes,agency-watch,agency-scale-vs-openness-and-technology|agency-platform-commerce-and-execution|holding-scale-festival-visibility-and-operating-clarity,market-influence|festival-presence|agency-platform-commerce-and-execution|holding-scale-festival-visibility-and-operating-clarity
-Netflix Ads,media,advertising,yes,yes,media-watch,public-communication-systems,distribution-power|public-communication-systems
+Netflix Ads,media,advertising,yes,yes,media-watch,public-communication-systems|platform-attention-culture-and-advertiser-access,distribution-power|public-communication-systems|platform-attention-culture-and-advertiser-access
 Omnicom,advertising,agency,yes,yes,agency-watch,agency-scale-vs-openness-and-technology|holding-scale-festival-visibility-and-operating-clarity,festival-presence|holding-scale-festival-visibility-and-operating-clarity
 Ogilvy,advertising,agency,yes,yes,agency-watch,holding-scale-festival-visibility-and-operating-clarity,festival-presence|holding-scale-festival-visibility-and-operating-clarity
-Spotify Advertising,media,advertising,yes,yes,media-watch,public-communication-systems,distribution-power|public-communication-systems
+Spotify Advertising,media,advertising,yes,yes,media-watch,public-communication-systems|platform-attention-culture-and-advertiser-access,distribution-power|public-communication-systems|platform-attention-culture-and-advertiser-access
 OpenAI,digital,ai,no,yes,ai-watch,ai-workflow-and-public-response,ai-workflow-and-public-response
 Cloudflare,digital,developers,no,yes,developer-watch,interface-and-publishing-infrastructure,interface-and-publishing-infrastructure
 Vercel,digital,developers,no,yes,developer-watch,interface-and-publishing-infrastructure,interface-and-publishing-infrastructure

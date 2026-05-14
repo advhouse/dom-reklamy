@@ -49,6 +49,7 @@ El `2026-05-12`, cada pilar produjo su propia capa visible de movimiento. Medios
 - [Media watch](./2026-05-12-media-watch.md)
 - [Top 5 interface and publishing infrastructure leaders](./2026-05-12-top-5-interface-and-publishing-infrastructure.md)
 - [Top 5 public communication systems](./2026-05-12-top-5-public-communication-systems.md)
+- [Top 5 platform attention, culture and advertiser access leaders](./2026-05-12-top-5-platform-attention-culture-and-advertiser-access.md)
 
 Лидеры внимания:
 
@@ -82,6 +83,7 @@ El `2026-05-12`, cada pilar produjo su propia capa visible de movimiento. Medios
 - [Top 5 creative strength leaders](./2026-05-12-top-5-creative-strength.md)
 - [Top 5 agency, platform commerce and market execution leaders](./2026-05-12-top-5-agency-platform-commerce-and-execution.md)
 - [Top 5 holding scale, festival visibility and operating clarity leaders](./2026-05-12-top-5-holding-scale-festival-visibility-and-operating-clarity.md)
+- [Top 5 platform attention, culture and advertiser access leaders](./2026-05-12-top-5-platform-attention-culture-and-advertiser-access.md)
 
 Опорные игроки:
 
