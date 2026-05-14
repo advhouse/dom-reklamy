@@ -76,3 +76,4 @@ El siguiente ciclo debe comenzar desde watchpoints y no desde exploración en br
 - [./2026-05-12-edition-map.md](./2026-05-12-edition-map.md)
 - [./2026-05-12-five-pillars-matrix.md](./2026-05-12-five-pillars-matrix.md)
 - [../../data/rankings/2026-05-12-next-cycle-watchpoints.csv](../../data/rankings/2026-05-12-next-cycle-watchpoints.csv)
+- [./2026-05-14-watchpoint-scan.md](./2026-05-14-watchpoint-scan.md)
