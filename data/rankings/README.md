@@ -18,6 +18,7 @@
 - `2026-05-12-index-agency-platform-commerce-and-execution.csv`
 - `2026-05-12-index-holding-scale-festival-visibility-and-operating-clarity.csv`
 - `2026-05-12-index-platform-attention-culture-and-advertiser-access.csv`
+- `2026-05-12-index-creative-tooling-workflow-adoption-and-public-visibility.csv`
 
 ## Назначение
 
@@ -35,3 +36,4 @@
 - `index-agency-platform-commerce-and-execution`: опора для слоя, где агентская сила соединяется с commerce, delivery и рыночным исполнением.
 - `index-holding-scale-festival-visibility-and-operating-clarity`: опора для слоя, где холдинговый масштаб проверяется фестивальной видимостью и рабочей ясностью.
 - `index-platform-attention-culture-and-advertiser-access`: опора для слоя, где внимание, культура и рекламный доступ работают как одна среда.
+- `index-creative-tooling-workflow-adoption-and-public-visibility`: опора для слоя, где creative-tech проверяется внедрением и публичной читаемостью.

@@ -43,6 +43,7 @@
 - [2026-05-12-top-5-agency-platform-commerce-and-execution.md](./2026-05-12-top-5-agency-platform-commerce-and-execution.md)
 - [2026-05-12-top-5-holding-scale-festival-visibility-and-operating-clarity.md](./2026-05-12-top-5-holding-scale-festival-visibility-and-operating-clarity.md)
 - [2026-05-12-top-5-platform-attention-culture-and-advertiser-access.md](./2026-05-12-top-5-platform-attention-culture-and-advertiser-access.md)
+- [2026-05-12-top-5-creative-tooling-workflow-adoption-and-public-visibility.md](./2026-05-12-top-5-creative-tooling-workflow-adoption-and-public-visibility.md)
 - [2026-05-12-index-note-reputation-and-trust.md](./2026-05-12-index-note-reputation-and-trust.md)
 - [2026-05-12-index-note-interface-and-publishing-infrastructure.md](./2026-05-12-index-note-interface-and-publishing-infrastructure.md)
 - [2026-05-12-index-note-public-communication-systems.md](./2026-05-12-index-note-public-communication-systems.md)
@@ -50,3 +51,4 @@
 - [2026-05-12-index-note-agency-platform-commerce-and-execution.md](./2026-05-12-index-note-agency-platform-commerce-and-execution.md)
 - [2026-05-12-index-note-holding-scale-festival-visibility-and-operating-clarity.md](./2026-05-12-index-note-holding-scale-festival-visibility-and-operating-clarity.md)
 - [2026-05-12-index-note-platform-attention-culture-and-advertiser-access.md](./2026-05-12-index-note-platform-attention-culture-and-advertiser-access.md)
+- [2026-05-12-index-note-creative-tooling-workflow-adoption-and-public-visibility.md](./2026-05-12-index-note-creative-tooling-workflow-adoption-and-public-visibility.md)

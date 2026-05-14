@@ -1,9 +1,9 @@
 company,primary_pillar,secondary_pillar,top20,company_note,watchlist,index_notes,top5_lists
-Adobe,advertising,design,yes,yes,advertising-watch|design-watch,technology-readiness|reputation-and-trust,creative-strength|technology-readiness|reputation-and-trust
+Adobe,advertising,design,yes,yes,advertising-watch|design-watch,technology-readiness|reputation-and-trust|creative-tooling-workflow-adoption-and-public-visibility,creative-strength|technology-readiness|reputation-and-trust|creative-tooling-workflow-adoption-and-public-visibility
 Amazon Ads,advertising,digital,yes,yes,advertising-watch,platform-power|market-influence|agency-platform-commerce-and-execution,distribution-power|market-influence|agency-platform-commerce-and-execution
 Google,digital,advertising,yes,yes,advertising-watch|developer-watch,platform-power|technology-readiness|agency-scale-vs-openness-and-technology,distribution-power|technology-readiness|market-influence
-Canva,design,advertising,yes,yes,design-watch|advertising-watch,technology-readiness|public-openness|reputation-and-trust,creative-strength|public-openness|reputation-and-trust
-Microsoft,digital,ai,yes,yes,developer-watch|ai-watch,technology-readiness|ai-workflow-and-public-response,technology-readiness|ai-workflow-and-public-response
+Canva,design,advertising,yes,yes,design-watch|advertising-watch,technology-readiness|public-openness|reputation-and-trust|creative-tooling-workflow-adoption-and-public-visibility,creative-strength|public-openness|reputation-and-trust|creative-tooling-workflow-adoption-and-public-visibility
+Microsoft,digital,ai,yes,yes,developer-watch|ai-watch,technology-readiness|ai-workflow-and-public-response|creative-tooling-workflow-adoption-and-public-visibility,technology-readiness|ai-workflow-and-public-response|creative-tooling-workflow-adoption-and-public-visibility
 Publicis Groupe,advertising,pr,yes,yes,agency-watch|advertising-watch,agency-scale-vs-openness-and-technology|reputation-and-trust|agency-platform-commerce-and-execution|holding-scale-festival-visibility-and-operating-clarity,creative-strength|market-influence|festival-presence|reputation-and-trust|agency-platform-commerce-and-execution|holding-scale-festival-visibility-and-operating-clarity
 LinkedIn,pr,digital,yes,yes,pr-watch|platform-movers,public-openness|reputation-and-trust|public-communication-systems|ai-workflow-and-public-response,distribution-power|reputation-and-trust|public-communication-systems|ai-workflow-and-public-response
 Salesforce,digital,pr,yes,yes,pr-watch|ai-watch,technology-readiness|ai-workflow-and-public-response,technology-readiness|ai-workflow-and-public-response
@@ -12,14 +12,14 @@ Monks,advertising,pr,yes,yes,agency-watch|pr-watch,agency-scale-vs-openness-and-
 TikTok,media,advertising,yes,yes,platform-movers,platform-power|platform-attention-culture-and-advertiser-access,distribution-power|platform-attention-culture-and-advertiser-access
 Reddit,media,pr,yes,yes,media-watch|pr-watch,public-openness|platform-attention-culture-and-advertiser-access,public-openness|platform-attention-culture-and-advertiser-access
 WPP,advertising,agency,yes,yes,agency-watch,agency-scale-vs-openness-and-technology|market-influence|holding-scale-festival-visibility-and-operating-clarity,market-influence|festival-presence|holding-scale-festival-visibility-and-operating-clarity
-Figma,design,digital,yes,yes,design-watch|ai-watch,public-openness|technology-readiness,public-openness|technology-readiness|creative-strength
+Figma,design,digital,yes,yes,design-watch|ai-watch,public-openness|technology-readiness|creative-tooling-workflow-adoption-and-public-visibility,public-openness|technology-readiness|creative-strength|creative-tooling-workflow-adoption-and-public-visibility
 VML,advertising,agency,yes,yes,agency-watch,public-communication-systems,market-influence|public-communication-systems
 Dentsu Creative,advertising,agency,yes,yes,agency-watch,agency-scale-vs-openness-and-technology|agency-platform-commerce-and-execution|holding-scale-festival-visibility-and-operating-clarity,market-influence|festival-presence|agency-platform-commerce-and-execution|holding-scale-festival-visibility-and-operating-clarity
 Netflix Ads,media,advertising,yes,yes,media-watch,public-communication-systems|platform-attention-culture-and-advertiser-access,distribution-power|public-communication-systems|platform-attention-culture-and-advertiser-access
 Omnicom,advertising,agency,yes,yes,agency-watch,agency-scale-vs-openness-and-technology|holding-scale-festival-visibility-and-operating-clarity,festival-presence|holding-scale-festival-visibility-and-operating-clarity
 Ogilvy,advertising,agency,yes,yes,agency-watch,holding-scale-festival-visibility-and-operating-clarity,festival-presence|holding-scale-festival-visibility-and-operating-clarity
 Spotify Advertising,media,advertising,yes,yes,media-watch,public-communication-systems|platform-attention-culture-and-advertiser-access,distribution-power|public-communication-systems|platform-attention-culture-and-advertiser-access
-OpenAI,digital,ai,no,yes,ai-watch,ai-workflow-and-public-response,ai-workflow-and-public-response
+OpenAI,digital,ai,no,yes,ai-watch,ai-workflow-and-public-response|creative-tooling-workflow-adoption-and-public-visibility,ai-workflow-and-public-response|creative-tooling-workflow-adoption-and-public-visibility
 Cloudflare,digital,developers,no,yes,developer-watch,interface-and-publishing-infrastructure,interface-and-publishing-infrastructure
 Vercel,digital,developers,no,yes,developer-watch,interface-and-publishing-infrastructure,interface-and-publishing-infrastructure
 HubSpot,pr,digital,no,yes,pr-watch,public-communication-systems|ai-workflow-and-public-response,public-communication-systems|ai-workflow-and-public-response

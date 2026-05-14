@@ -100,6 +100,7 @@ El `2026-05-12`, cada pilar produjo su propia capa visible de movimiento. Medios
 - [Design watch](./2026-05-12-design-watch.md)
 - [Top 5 public openness leaders](./2026-05-12-top-5-public-openness.md)
 - [Индексное пояснение по interface and publishing infrastructure](./2026-05-12-index-note-interface-and-publishing-infrastructure.md)
+- [Top 5 creative tooling, workflow adoption and public visibility leaders](./2026-05-12-top-5-creative-tooling-workflow-adoption-and-public-visibility.md)
 
 Опорные игроки:
 
@@ -120,6 +121,7 @@ El `2026-05-12`, cada pilar produjo su propia capa visible de movimiento. Medios
 - [Индексное пояснение по public communication systems](./2026-05-12-index-note-public-communication-systems.md)
 - [Top 5 AI, workflow and public response leaders](./2026-05-12-top-5-ai-workflow-and-public-response.md)
 - [Top 5 agency, platform commerce and market execution leaders](./2026-05-12-top-5-agency-platform-commerce-and-execution.md)
+- [Top 5 creative tooling, workflow adoption and public visibility leaders](./2026-05-12-top-5-creative-tooling-workflow-adoption-and-public-visibility.md)
 
 Опорные игроки:
 

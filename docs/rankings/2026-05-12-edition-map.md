@@ -31,6 +31,7 @@
 - [Top 5 agency, platform commerce and market execution leaders](./2026-05-12-top-5-agency-platform-commerce-and-execution.md)
 - [Top 5 holding scale, festival visibility and operating clarity leaders](./2026-05-12-top-5-holding-scale-festival-visibility-and-operating-clarity.md)
 - [Top 5 platform attention, culture and advertiser access leaders](./2026-05-12-top-5-platform-attention-culture-and-advertiser-access.md)
+- [Top 5 creative tooling, workflow adoption and public visibility leaders](./2026-05-12-top-5-creative-tooling-workflow-adoption-and-public-visibility.md)
 
 ## 3. Индексные пояснения
 
@@ -45,6 +46,7 @@
 - [Почему agency, platform commerce and market execution стали одним слоем](./2026-05-12-index-note-agency-platform-commerce-and-execution.md)
 - [Почему holding scale, festival visibility and operating clarity стали одним слоем](./2026-05-12-index-note-holding-scale-festival-visibility-and-operating-clarity.md)
 - [Почему platform attention, culture and advertiser access стали одним слоем](./2026-05-12-index-note-platform-attention-culture-and-advertiser-access.md)
+- [Почему creative tooling, workflow adoption and public visibility стали одним слоем](./2026-05-12-index-note-creative-tooling-workflow-adoption-and-public-visibility.md)
 
 ## 4. Наблюдательные срезы
 
@@ -98,6 +100,7 @@
 - [Agency, platform commerce and execution table](../../data/rankings/2026-05-12-index-agency-platform-commerce-and-execution.csv)
 - [Holding scale, festival visibility and operating clarity table](../../data/rankings/2026-05-12-index-holding-scale-festival-visibility-and-operating-clarity.csv)
 - [Platform attention, culture and advertiser access table](../../data/rankings/2026-05-12-index-platform-attention-culture-and-advertiser-access.csv)
+- [Creative tooling, workflow adoption and public visibility table](../../data/rankings/2026-05-12-index-creative-tooling-workflow-adoption-and-public-visibility.csv)
 - [Five pillars matrix](../../data/rankings/2026-05-12-five-pillars-matrix.csv)
 
 ## 8. Операционная карта
