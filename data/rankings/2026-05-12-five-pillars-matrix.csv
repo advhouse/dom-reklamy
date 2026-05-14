@@ -5,7 +5,7 @@ Google,digital,advertising,yes,yes,advertising-watch|developer-watch,platform-po
 Canva,design,advertising,yes,yes,design-watch|advertising-watch,technology-readiness|public-openness|reputation-and-trust,creative-strength|public-openness|reputation-and-trust
 Microsoft,digital,ai,yes,yes,developer-watch|ai-watch,technology-readiness,technology-readiness
 Publicis Groupe,advertising,pr,yes,yes,agency-watch|advertising-watch,agency-scale-vs-openness-and-technology|reputation-and-trust,creative-strength|market-influence|festival-presence|reputation-and-trust
-LinkedIn,pr,digital,yes,yes,pr-watch|platform-movers,public-openness|reputation-and-trust,distribution-power|reputation-and-trust
+LinkedIn,pr,digital,yes,yes,pr-watch|platform-movers,public-openness|reputation-and-trust|public-communication-systems,distribution-power|reputation-and-trust|public-communication-systems
 Salesforce,digital,pr,yes,yes,pr-watch|ai-watch,technology-readiness,technology-readiness
 Meta,media,advertising,yes,yes,platform-movers,platform-power|market-influence,distribution-power|market-influence
 Monks,advertising,pr,yes,yes,agency-watch|pr-watch,agency-scale-vs-openness-and-technology|public-openness,creative-strength|festival-presence|public-openness
@@ -13,16 +13,16 @@ TikTok,media,advertising,yes,yes,platform-movers,platform-power,distribution-pow
 Reddit,media,pr,yes,yes,media-watch|pr-watch,public-openness,public-openness
 WPP,advertising,agency,yes,yes,agency-watch,agency-scale-vs-openness-and-technology|market-influence,market-influence|festival-presence
 Figma,design,digital,yes,yes,design-watch|ai-watch,public-openness|technology-readiness,public-openness|technology-readiness|creative-strength
-VML,advertising,agency,yes,yes,agency-watch,,market-influence
+VML,advertising,agency,yes,yes,agency-watch,public-communication-systems,market-influence|public-communication-systems
 Dentsu Creative,advertising,agency,yes,yes,agency-watch,agency-scale-vs-openness-and-technology,market-influence|festival-presence
-Netflix Ads,media,advertising,yes,yes,media-watch,,distribution-power
+Netflix Ads,media,advertising,yes,yes,media-watch,public-communication-systems,distribution-power|public-communication-systems
 Omnicom,advertising,agency,yes,yes,agency-watch,agency-scale-vs-openness-and-technology,festival-presence
 Ogilvy,advertising,agency,yes,yes,agency-watch,,festival-presence
-Spotify Advertising,media,advertising,yes,yes,media-watch,,distribution-power
+Spotify Advertising,media,advertising,yes,yes,media-watch,public-communication-systems,distribution-power|public-communication-systems
 OpenAI,digital,ai,no,yes,ai-watch,, 
 Cloudflare,digital,developers,no,yes,developer-watch,interface-and-publishing-infrastructure,interface-and-publishing-infrastructure
 Vercel,digital,developers,no,yes,developer-watch,interface-and-publishing-infrastructure,interface-and-publishing-infrastructure
-HubSpot,pr,digital,no,yes,pr-watch,, 
+HubSpot,pr,digital,no,yes,pr-watch,public-communication-systems,public-communication-systems
 Automattic,media,digital,no,yes,media-watch|pr-watch,interface-and-publishing-infrastructure,interface-and-publishing-infrastructure
 Shopify,design,digital,no,yes,design-watch|developer-watch,interface-and-publishing-infrastructure,interface-and-publishing-infrastructure
 IBM Plex,design,design,no,yes,design-watch,public-openness|interface-and-publishing-infrastructure,

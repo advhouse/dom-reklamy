@@ -13,6 +13,7 @@
 - `2026-05-12-index-agency-openness-technology.csv`
 - `2026-05-12-five-pillars-matrix.csv`
 - `2026-05-12-index-interface-and-publishing-infrastructure.csv`
+- `2026-05-12-index-public-communication-systems.csv`
 
 ## Назначение
 
@@ -25,3 +26,4 @@
 - `index-agency-openness-technology`: сравнительная таблица для агентского индексного разбора.
 - `five-pillars-matrix`: операционная матрица покрытия компаний по пяти столпам.
 - `index-interface-and-publishing-infrastructure`: опора для среза про интерфейсные, publishing- и delivery-системы.
+- `index-public-communication-systems`: опора для cross-pillar среза про публичные коммуникационные системы.
