@@ -39,6 +39,8 @@
 - [2026-05-12-top-5-reputation-and-trust.md](./2026-05-12-top-5-reputation-and-trust.md)
 - [2026-05-12-top-5-interface-and-publishing-infrastructure.md](./2026-05-12-top-5-interface-and-publishing-infrastructure.md)
 - [2026-05-12-top-5-public-communication-systems.md](./2026-05-12-top-5-public-communication-systems.md)
+- [2026-05-12-top-5-ai-workflow-and-public-response.md](./2026-05-12-top-5-ai-workflow-and-public-response.md)
 - [2026-05-12-index-note-reputation-and-trust.md](./2026-05-12-index-note-reputation-and-trust.md)
 - [2026-05-12-index-note-interface-and-publishing-infrastructure.md](./2026-05-12-index-note-interface-and-publishing-infrastructure.md)
 - [2026-05-12-index-note-public-communication-systems.md](./2026-05-12-index-note-public-communication-systems.md)
+- [2026-05-12-index-note-ai-workflow-and-public-response.md](./2026-05-12-index-note-ai-workflow-and-public-response.md)

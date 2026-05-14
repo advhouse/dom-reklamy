@@ -64,6 +64,7 @@ El `2026-05-12`, cada pilar produjo su propia capa visible de movimiento. Medios
 
 - [PR watch](./2026-05-12-pr-watch.md)
 - [Top 5 public communication systems](./2026-05-12-top-5-public-communication-systems.md)
+- [Top 5 AI, workflow and public response leaders](./2026-05-12-top-5-ai-workflow-and-public-response.md)
 
 Опорные игроки:
 
@@ -113,6 +114,7 @@ El `2026-05-12`, cada pilar produjo su propia capa visible de movimiento. Medios
 - [Top 5 technology readiness leaders](./2026-05-12-top-5-technology-readiness.md)
 - [Top 5 interface and publishing infrastructure leaders](./2026-05-12-top-5-interface-and-publishing-infrastructure.md)
 - [Индексное пояснение по public communication systems](./2026-05-12-index-note-public-communication-systems.md)
+- [Top 5 AI, workflow and public response leaders](./2026-05-12-top-5-ai-workflow-and-public-response.md)
 
 Опорные игроки:
 

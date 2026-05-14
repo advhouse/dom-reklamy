@@ -27,6 +27,7 @@
 - [Top 5 reputation and trust leaders](./2026-05-12-top-5-reputation-and-trust.md)
 - [Top 5 interface and publishing infrastructure leaders](./2026-05-12-top-5-interface-and-publishing-infrastructure.md)
 - [Top 5 public communication systems](./2026-05-12-top-5-public-communication-systems.md)
+- [Top 5 AI, workflow and public response leaders](./2026-05-12-top-5-ai-workflow-and-public-response.md)
 
 ## 3. Индексные пояснения
 
@@ -37,6 +38,7 @@
 - [Почему репутация и доверие по-прежнему меняют результат](./2026-05-12-index-note-reputation-and-trust.md)
 - [Почему слой interface and publishing infrastructure стал важнее](./2026-05-12-index-note-interface-and-publishing-infrastructure.md)
 - [Почему public communication systems стали отдельным слоем](./2026-05-12-index-note-public-communication-systems.md)
+- [Почему AI, workflow and public response стали одним слоем](./2026-05-12-index-note-ai-workflow-and-public-response.md)
 
 ## 4. Наблюдательные срезы
 
@@ -86,6 +88,7 @@
 - [Agency / openness / technology table](../../data/rankings/2026-05-12-index-agency-openness-technology.csv)
 - [Interface and publishing infrastructure table](../../data/rankings/2026-05-12-index-interface-and-publishing-infrastructure.csv)
 - [Public communication systems table](../../data/rankings/2026-05-12-index-public-communication-systems.csv)
+- [AI, workflow and public response table](../../data/rankings/2026-05-12-index-ai-workflow-and-public-response.csv)
 - [Five pillars matrix](../../data/rankings/2026-05-12-five-pillars-matrix.csv)
 
 ## 8. Операционная карта
