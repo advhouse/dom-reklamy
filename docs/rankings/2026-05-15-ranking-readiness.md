@@ -75,6 +75,7 @@ La respuesta al `15 de mayo de 2026` es preparación condicional. TikTok, Amazon
 
 ## Связанные материалы
 
+- [./2026-05-15-trigger-matrix.md](./2026-05-15-trigger-matrix.md)
 - [./2026-05-14-watchpoint-scan.md](./2026-05-14-watchpoint-scan.md)
 - [./2026-05-14-ranking-movement-brief.md](./2026-05-14-ranking-movement-brief.md)
 - [../../data/rankings/2026-05-15-ranking-readiness.csv](../../data/rankings/2026-05-15-ranking-readiness.csv)

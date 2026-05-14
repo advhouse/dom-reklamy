@@ -16,6 +16,7 @@
 - [2026-05-14-watchpoint-scan.md](./2026-05-14-watchpoint-scan.md)
 - [2026-05-14-ranking-movement-brief.md](./2026-05-14-ranking-movement-brief.md)
 - [2026-05-15-ranking-readiness.md](./2026-05-15-ranking-readiness.md)
+- [2026-05-15-trigger-matrix.md](./2026-05-15-trigger-matrix.md)
 - [2026-05-12-five-pillars-summary.md](./2026-05-12-five-pillars-summary.md)
 - [2026-05-12-five-pillars-matrix.md](./2026-05-12-five-pillars-matrix.md)
 - [2026-05-12-top-20.md](./2026-05-12-top-20.md)
