@@ -66,6 +66,7 @@ Para el ciclo actual, el grupo superior de movimiento es TikTok, Amazon Ads, Ope
 
 ## Связанные материалы
 
+- [./2026-05-15-rerank-protocol.md](./2026-05-15-rerank-protocol.md)
 - [./2026-05-15-ranking-readiness.md](./2026-05-15-ranking-readiness.md)
 - [../../data/rankings/2026-05-15-trigger-matrix.csv](../../data/rankings/2026-05-15-trigger-matrix.csv)
 - [../../data/rankings/2026-05-15-sources.md](../../data/rankings/2026-05-15-sources.md)

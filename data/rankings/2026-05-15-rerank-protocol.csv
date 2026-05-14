@@ -1,0 +1,5 @@
+step,condition,action,output
+1,new signal matches trigger matrix,validate trigger and affected index,trigger confirmation
+2,one or more indices move,recompare upper cluster and hold layer,pressure reassessment
+3,reorder is defensible,update Top 20 and movement note,new ranking package
+4,reorder is not defensible,append to watchpoint layer and continue observation,watchpoint continuation
