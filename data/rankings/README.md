@@ -15,6 +15,7 @@
 - `2026-05-12-index-interface-and-publishing-infrastructure.csv`
 - `2026-05-12-index-public-communication-systems.csv`
 - `2026-05-12-index-ai-workflow-and-public-response.csv`
+- `2026-05-12-index-agency-platform-commerce-and-execution.csv`
 
 ## Назначение
 
@@ -29,3 +30,4 @@
 - `index-interface-and-publishing-infrastructure`: опора для среза про интерфейсные, publishing- и delivery-системы.
 - `index-public-communication-systems`: опора для cross-pillar среза про публичные коммуникационные системы.
 - `index-ai-workflow-and-public-response`: опора для слоя, где AI соединяется с workflow и публичным ответом.
+- `index-agency-platform-commerce-and-execution`: опора для слоя, где агентская сила соединяется с commerce, delivery и рыночным исполнением.

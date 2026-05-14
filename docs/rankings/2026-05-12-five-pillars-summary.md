@@ -80,6 +80,7 @@ El `2026-05-12`, cada pilar produjo su propia capa visible de movimiento. Medios
 
 - [Advertising watch](./2026-05-12-advertising-watch.md)
 - [Top 5 creative strength leaders](./2026-05-12-top-5-creative-strength.md)
+- [Top 5 agency, platform commerce and market execution leaders](./2026-05-12-top-5-agency-platform-commerce-and-execution.md)
 
 Опорные игроки:
 
@@ -115,6 +116,7 @@ El `2026-05-12`, cada pilar produjo su propia capa visible de movimiento. Medios
 - [Top 5 interface and publishing infrastructure leaders](./2026-05-12-top-5-interface-and-publishing-infrastructure.md)
 - [Индексное пояснение по public communication systems](./2026-05-12-index-note-public-communication-systems.md)
 - [Top 5 AI, workflow and public response leaders](./2026-05-12-top-5-ai-workflow-and-public-response.md)
+- [Top 5 agency, platform commerce and market execution leaders](./2026-05-12-top-5-agency-platform-commerce-and-execution.md)
 
 Опорные игроки:
 

@@ -1,20 +1,20 @@
 company,primary_pillar,secondary_pillar,top20,company_note,watchlist,index_notes,top5_lists
 Adobe,advertising,design,yes,yes,advertising-watch|design-watch,technology-readiness|reputation-and-trust,creative-strength|technology-readiness|reputation-and-trust
-Amazon Ads,advertising,digital,yes,yes,advertising-watch,platform-power|market-influence,distribution-power|market-influence
+Amazon Ads,advertising,digital,yes,yes,advertising-watch,platform-power|market-influence|agency-platform-commerce-and-execution,distribution-power|market-influence|agency-platform-commerce-and-execution
 Google,digital,advertising,yes,yes,advertising-watch|developer-watch,platform-power|technology-readiness|agency-scale-vs-openness-and-technology,distribution-power|technology-readiness|market-influence
 Canva,design,advertising,yes,yes,design-watch|advertising-watch,technology-readiness|public-openness|reputation-and-trust,creative-strength|public-openness|reputation-and-trust
 Microsoft,digital,ai,yes,yes,developer-watch|ai-watch,technology-readiness|ai-workflow-and-public-response,technology-readiness|ai-workflow-and-public-response
-Publicis Groupe,advertising,pr,yes,yes,agency-watch|advertising-watch,agency-scale-vs-openness-and-technology|reputation-and-trust,creative-strength|market-influence|festival-presence|reputation-and-trust
+Publicis Groupe,advertising,pr,yes,yes,agency-watch|advertising-watch,agency-scale-vs-openness-and-technology|reputation-and-trust|agency-platform-commerce-and-execution,creative-strength|market-influence|festival-presence|reputation-and-trust|agency-platform-commerce-and-execution
 LinkedIn,pr,digital,yes,yes,pr-watch|platform-movers,public-openness|reputation-and-trust|public-communication-systems|ai-workflow-and-public-response,distribution-power|reputation-and-trust|public-communication-systems|ai-workflow-and-public-response
 Salesforce,digital,pr,yes,yes,pr-watch|ai-watch,technology-readiness|ai-workflow-and-public-response,technology-readiness|ai-workflow-and-public-response
 Meta,media,advertising,yes,yes,platform-movers,platform-power|market-influence,distribution-power|market-influence
-Monks,advertising,pr,yes,yes,agency-watch|pr-watch,agency-scale-vs-openness-and-technology|public-openness,creative-strength|festival-presence|public-openness
+Monks,advertising,pr,yes,yes,agency-watch|pr-watch,agency-scale-vs-openness-and-technology|public-openness|agency-platform-commerce-and-execution,creative-strength|festival-presence|public-openness|agency-platform-commerce-and-execution
 TikTok,media,advertising,yes,yes,platform-movers,platform-power,distribution-power
 Reddit,media,pr,yes,yes,media-watch|pr-watch,public-openness,public-openness
 WPP,advertising,agency,yes,yes,agency-watch,agency-scale-vs-openness-and-technology|market-influence,market-influence|festival-presence
 Figma,design,digital,yes,yes,design-watch|ai-watch,public-openness|technology-readiness,public-openness|technology-readiness|creative-strength
 VML,advertising,agency,yes,yes,agency-watch,public-communication-systems,market-influence|public-communication-systems
-Dentsu Creative,advertising,agency,yes,yes,agency-watch,agency-scale-vs-openness-and-technology,market-influence|festival-presence
+Dentsu Creative,advertising,agency,yes,yes,agency-watch,agency-scale-vs-openness-and-technology|agency-platform-commerce-and-execution,market-influence|festival-presence|agency-platform-commerce-and-execution
 Netflix Ads,media,advertising,yes,yes,media-watch,public-communication-systems,distribution-power|public-communication-systems
 Omnicom,advertising,agency,yes,yes,agency-watch,agency-scale-vs-openness-and-technology,festival-presence
 Ogilvy,advertising,agency,yes,yes,agency-watch,,festival-presence
@@ -24,5 +24,5 @@ Cloudflare,digital,developers,no,yes,developer-watch,interface-and-publishing-in
 Vercel,digital,developers,no,yes,developer-watch,interface-and-publishing-infrastructure,interface-and-publishing-infrastructure
 HubSpot,pr,digital,no,yes,pr-watch,public-communication-systems|ai-workflow-and-public-response,public-communication-systems|ai-workflow-and-public-response
 Automattic,media,digital,no,yes,media-watch|pr-watch,interface-and-publishing-infrastructure,interface-and-publishing-infrastructure
-Shopify,design,digital,no,yes,design-watch|developer-watch,interface-and-publishing-infrastructure,interface-and-publishing-infrastructure
+Shopify,design,digital,no,yes,design-watch|developer-watch,interface-and-publishing-infrastructure|agency-platform-commerce-and-execution,interface-and-publishing-infrastructure|agency-platform-commerce-and-execution
 IBM Plex,design,design,no,yes,design-watch,public-openness|interface-and-publishing-infrastructure,
