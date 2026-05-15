@@ -28,6 +28,7 @@
 - [2026-05-15-scorecard-refresh-scaffold.md](./2026-05-15-scorecard-refresh-scaffold.md)
 - [2026-05-15-trigger-scenario-tiktok.md](./2026-05-15-trigger-scenario-tiktok.md)
 - [2026-05-15-trigger-scenario-amazon-ads.md](./2026-05-15-trigger-scenario-amazon-ads.md)
+- [2026-05-15-trigger-scenario-openai.md](./2026-05-15-trigger-scenario-openai.md)
 - [2026-05-12-five-pillars-summary.md](./2026-05-12-five-pillars-summary.md)
 - [2026-05-12-five-pillars-matrix.md](./2026-05-12-five-pillars-matrix.md)
 - [2026-05-12-top-20.md](./2026-05-12-top-20.md)

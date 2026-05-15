@@ -54,6 +54,7 @@ El día queda ahora estructurado como una secuencia: readiness, condiciones de t
 10. [scorecard refresh scaffold](./2026-05-15-scorecard-refresh-scaffold.md)
 11. [trigger scenario / TikTok](./2026-05-15-trigger-scenario-tiktok.md)
 12. [trigger scenario / Amazon Ads](./2026-05-15-trigger-scenario-amazon-ads.md)
+13. [trigger scenario / OpenAI](./2026-05-15-trigger-scenario-openai.md)
 
 ## Что делает каждый слой
 
@@ -71,6 +72,7 @@ El día queda ahora estructurado como una secuencia: readiness, condiciones de t
 | `scorecard refresh scaffold` | синхронизирует внутренние scorecards с публичной перестановкой |
 | `trigger scenario / TikTok` | показывает первый конкретный live-case для same-day rerank |
 | `trigger scenario / Amazon Ads` | показывает commerce-execution live-case для same-day rerank |
+| `trigger scenario / OpenAI` | показывает AI-workflow live-case для same-day rerank |
 
 ## Практический вывод
 
