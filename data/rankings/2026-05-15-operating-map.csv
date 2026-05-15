@@ -1,0 +1,8 @@
+layer,role,output
+ranking readiness,defines whether the day is ready for rerank,readiness state
+trigger matrix,defines what kind of signal can move ranking,trigger conditions
+rerank protocol,defines what to do after trigger confirmation,rerank workflow
+candidate order brief,defines provisional upper cluster order,initial rerank order
+evidence threshold grid,defines weak sufficient and strong thresholds,evidence test
+movement note scaffold,defines same-day short publication format,short movement note
+rerank delta scaffold,defines before-after comparison format,delta explanation
