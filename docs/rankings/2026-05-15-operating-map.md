@@ -50,6 +50,7 @@ El día queda ahora estructurado como una secuencia: readiness, condiciones de t
 6. [movement note scaffold](./2026-05-15-movement-note-scaffold.md)
 7. [rerank delta scaffold](./2026-05-15-rerank-delta-scaffold.md)
 8. [same-day rerank checklist](./2026-05-15-same-day-rerank-checklist.md)
+9. [rerank simulation](./2026-05-15-rerank-simulation.md)
 
 ## Что делает каждый слой
 
@@ -63,6 +64,7 @@ El día queda ahora estructurado como una secuencia: readiness, condiciones de t
 | `movement note scaffold` | позволяет быстро выпустить короткое объяснение перестановки |
 | `rerank delta scaffold` | фиксирует сравнение рейтинга до и после |
 | `same-day rerank checklist` | проверяет, можно ли уже публиковать перестановку |
+| `rerank simulation` | показывает, как весь стек сработает на реальном dry run |
 
 ## Практический вывод
 

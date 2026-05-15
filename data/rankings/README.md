@@ -32,6 +32,7 @@
 - `2026-05-15-movement-note-scaffold.csv`
 - `2026-05-15-rerank-delta-scaffold.csv`
 - `2026-05-15-same-day-rerank-checklist.csv`
+- `2026-05-15-rerank-simulation.csv`
 - `2026-05-15-sources.md`
 
 ## Назначение
@@ -64,4 +65,5 @@
 - `2026-05-15-movement-note-scaffold`: короткий публикационный каркас для same-day объяснения перестановки.
 - `2026-05-15-rerank-delta-scaffold`: каркас явного сравнения прежнего и нового порядка после rerank.
 - `2026-05-15-same-day-rerank-checklist`: финальная проверка, можно ли уже публиковать same-day перестановку.
+- `2026-05-15-rerank-simulation`: dry-run слой, который проверяет, как стек дня сработает на первом реальном сигнале.
 - `2026-05-15-sources`: официальный список источников для слоя готовности.
