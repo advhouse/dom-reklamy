@@ -53,6 +53,7 @@ El día queda ahora estructurado como una secuencia: readiness, condiciones de t
 9. [rerank simulation](./2026-05-15-rerank-simulation.md)
 10. [scorecard refresh scaffold](./2026-05-15-scorecard-refresh-scaffold.md)
 11. [trigger scenario / TikTok](./2026-05-15-trigger-scenario-tiktok.md)
+12. [trigger scenario / Amazon Ads](./2026-05-15-trigger-scenario-amazon-ads.md)
 
 ## Что делает каждый слой
 
@@ -69,6 +70,7 @@ El día queda ahora estructurado como una secuencia: readiness, condiciones de t
 | `rerank simulation` | показывает, как весь стек сработает на реальном dry run |
 | `scorecard refresh scaffold` | синхронизирует внутренние scorecards с публичной перестановкой |
 | `trigger scenario / TikTok` | показывает первый конкретный live-case для same-day rerank |
+| `trigger scenario / Amazon Ads` | показывает commerce-execution live-case для same-day rerank |
 
 ## Практический вывод
 
