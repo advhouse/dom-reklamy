@@ -1,0 +1,9 @@
+check,required_for_publish
+Trigger confirmed,yes
+Evidence threshold is sufficient or strong,yes
+Rerank protocol conditions are satisfied,yes
+Candidate order has been rechecked against the new signal,yes
+Movement note is ready,yes
+Rerank delta is ready,yes
+Scorecards can be updated without ambiguity,yes
+The move can be explained in one short defensible paragraph,yes

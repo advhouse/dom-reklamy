@@ -23,6 +23,7 @@
 - [2026-05-15-evidence-threshold-grid.md](./2026-05-15-evidence-threshold-grid.md)
 - [2026-05-15-movement-note-scaffold.md](./2026-05-15-movement-note-scaffold.md)
 - [2026-05-15-rerank-delta-scaffold.md](./2026-05-15-rerank-delta-scaffold.md)
+- [2026-05-15-same-day-rerank-checklist.md](./2026-05-15-same-day-rerank-checklist.md)
 - [2026-05-12-five-pillars-summary.md](./2026-05-12-five-pillars-summary.md)
 - [2026-05-12-five-pillars-matrix.md](./2026-05-12-five-pillars-matrix.md)
 - [2026-05-12-top-20.md](./2026-05-12-top-20.md)
