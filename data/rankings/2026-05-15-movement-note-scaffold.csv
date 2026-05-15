@@ -1,0 +1,8 @@
+field,required,description
+date,yes,publication date of the movement note
+trigger company,yes,company whose signal caused the rerank
+trigger type,yes,type of signal behind the movement
+affected index,yes,first index or layer affected by the trigger
+movement,yes,short description of what moved
+why the movement is defensible,yes,one concise explanation tied to threshold and matrix logic
+next follow-up,yes,next publication action after the short note
