@@ -1,0 +1,5 @@
+layer,companies_or_state,carry_forward_role
+movement-cluster,"TikTok; Amazon Ads; OpenAI; Salesforce; Canva",primary comparison set
+structural-reference,Adobe,top reference
+hold-layer,"Microsoft; Meta",hold and monitor
+day-start,2026-05-16,inherited operational stack
