@@ -64,12 +64,14 @@ El siguiente rerank solo debe comenzar cuando se cumpla la trigger matrix. Una v
 
 - обновленный `Top 20`;
 - короткий `movement note`;
+- `rerank delta` с явным сравнением до и после;
 - обновленная таблица scorecards;
 - точечное пояснение, какой trigger сработал;
 - обновленная ссылка из текущего `watchpoint`-слоя.
 
 ## Связанные материалы
 
+- [./2026-05-15-rerank-delta-scaffold.md](./2026-05-15-rerank-delta-scaffold.md)
 - [./2026-05-15-movement-note-scaffold.md](./2026-05-15-movement-note-scaffold.md)
 - [./2026-05-15-candidate-order-brief.md](./2026-05-15-candidate-order-brief.md)
 - [./2026-05-15-trigger-matrix.md](./2026-05-15-trigger-matrix.md)

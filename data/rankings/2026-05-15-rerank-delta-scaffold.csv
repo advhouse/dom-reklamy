@@ -1,0 +1,2 @@
+company,previous_rank,new_rank,direction,trigger,primary_index_change,why_the_move_is_defensible
+Company,N,N,up_or_down_or_hold,signal type,index name,one line explanation
