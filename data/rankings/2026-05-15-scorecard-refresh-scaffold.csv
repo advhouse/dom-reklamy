@@ -1,0 +1,2 @@
+company,previous_composite_state,new_composite_state,trigger_source,affected_index,confidence_level,editor_note
+Company,state,state,source_or_trigger,index_name,medium_or_high,one line note

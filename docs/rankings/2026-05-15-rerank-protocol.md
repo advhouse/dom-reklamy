@@ -71,6 +71,7 @@ El siguiente rerank solo debe comenzar cuando se cumpla la trigger matrix. Una v
 
 ## Связанные материалы
 
+- [./2026-05-15-scorecard-refresh-scaffold.md](./2026-05-15-scorecard-refresh-scaffold.md)
 - [./2026-05-15-rerank-delta-scaffold.md](./2026-05-15-rerank-delta-scaffold.md)
 - [./2026-05-15-movement-note-scaffold.md](./2026-05-15-movement-note-scaffold.md)
 - [./2026-05-15-candidate-order-brief.md](./2026-05-15-candidate-order-brief.md)
