@@ -64,6 +64,7 @@ Por ahora, TikTok y Amazon Ads lideran el grupo de movimiento porque sus señale
 
 ## Связанные материалы
 
+- [./2026-05-15-evidence-threshold-grid.md](./2026-05-15-evidence-threshold-grid.md)
 - [./2026-05-15-trigger-matrix.md](./2026-05-15-trigger-matrix.md)
 - [./2026-05-15-rerank-protocol.md](./2026-05-15-rerank-protocol.md)
 - [../../data/rankings/2026-05-15-candidate-order-brief.csv](../../data/rankings/2026-05-15-candidate-order-brief.csv)

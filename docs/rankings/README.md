@@ -19,6 +19,7 @@
 - [2026-05-15-trigger-matrix.md](./2026-05-15-trigger-matrix.md)
 - [2026-05-15-rerank-protocol.md](./2026-05-15-rerank-protocol.md)
 - [2026-05-15-candidate-order-brief.md](./2026-05-15-candidate-order-brief.md)
+- [2026-05-15-evidence-threshold-grid.md](./2026-05-15-evidence-threshold-grid.md)
 - [2026-05-12-five-pillars-summary.md](./2026-05-12-five-pillars-summary.md)
 - [2026-05-12-five-pillars-matrix.md](./2026-05-12-five-pillars-matrix.md)
 - [2026-05-12-top-20.md](./2026-05-12-top-20.md)
