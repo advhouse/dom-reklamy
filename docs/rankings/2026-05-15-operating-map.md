@@ -55,6 +55,7 @@ El día queda ahora estructurado como una secuencia: readiness, condiciones de t
 11. [trigger scenario / TikTok](./2026-05-15-trigger-scenario-tiktok.md)
 12. [trigger scenario / Amazon Ads](./2026-05-15-trigger-scenario-amazon-ads.md)
 13. [trigger scenario / OpenAI](./2026-05-15-trigger-scenario-openai.md)
+14. [trigger scenario / Salesforce](./2026-05-15-trigger-scenario-salesforce.md)
 
 ## Что делает каждый слой
 
@@ -73,6 +74,7 @@ El día queda ahora estructurado como una secuencia: readiness, condiciones de t
 | `trigger scenario / TikTok` | показывает первый конкретный live-case для same-day rerank |
 | `trigger scenario / Amazon Ads` | показывает commerce-execution live-case для same-day rerank |
 | `trigger scenario / OpenAI` | показывает AI-workflow live-case для same-day rerank |
+| `trigger scenario / Salesforce` | показывает enterprise-workflow live-case для same-day rerank |
 
 ## Практический вывод
 

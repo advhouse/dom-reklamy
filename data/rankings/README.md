@@ -37,6 +37,7 @@
 - `2026-05-15-trigger-scenario-tiktok.csv`
 - `2026-05-15-trigger-scenario-amazon-ads.csv`
 - `2026-05-15-trigger-scenario-openai.csv`
+- `2026-05-15-trigger-scenario-salesforce.csv`
 - `2026-05-15-sources.md`
 
 ## Назначение
@@ -74,4 +75,5 @@
 - `2026-05-15-trigger-scenario-tiktok`: первый конкретный live-case, показывающий, как стек дня должен сработать на TikTok.
 - `2026-05-15-trigger-scenario-amazon-ads`: второй concrete live-case, показывающий, как стек дня должен сработать на Amazon Ads.
 - `2026-05-15-trigger-scenario-openai`: третий concrete live-case, показывающий, как стек дня должен сработать на OpenAI.
+- `2026-05-15-trigger-scenario-salesforce`: четвертый concrete live-case, показывающий, как стек дня должен сработать на Salesforce.
 - `2026-05-15-sources`: официальный список источников для слоя готовности.
