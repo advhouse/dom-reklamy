@@ -34,6 +34,7 @@
 - `2026-05-15-same-day-rerank-checklist.csv`
 - `2026-05-15-rerank-simulation.csv`
 - `2026-05-15-scorecard-refresh-scaffold.csv`
+- `2026-05-15-trigger-scenario-tiktok.csv`
 - `2026-05-15-sources.md`
 
 ## Назначение
@@ -68,4 +69,5 @@
 - `2026-05-15-same-day-rerank-checklist`: финальная проверка, можно ли уже публиковать same-day перестановку.
 - `2026-05-15-rerank-simulation`: dry-run слой, который проверяет, как стек дня сработает на первом реальном сигнале.
 - `2026-05-15-scorecard-refresh-scaffold`: каркас, по которому внутренняя таблица scorecards синхронизируется с новым rerank.
+- `2026-05-15-trigger-scenario-tiktok`: первый конкретный live-case, показывающий, как стек дня должен сработать на TikTok.
 - `2026-05-15-sources`: официальный список источников для слоя готовности.

@@ -52,6 +52,7 @@ El día queda ahora estructurado como una secuencia: readiness, condiciones de t
 8. [same-day rerank checklist](./2026-05-15-same-day-rerank-checklist.md)
 9. [rerank simulation](./2026-05-15-rerank-simulation.md)
 10. [scorecard refresh scaffold](./2026-05-15-scorecard-refresh-scaffold.md)
+11. [trigger scenario / TikTok](./2026-05-15-trigger-scenario-tiktok.md)
 
 ## Что делает каждый слой
 
@@ -67,6 +68,7 @@ El día queda ahora estructurado como una secuencia: readiness, condiciones de t
 | `same-day rerank checklist` | проверяет, можно ли уже публиковать перестановку |
 | `rerank simulation` | показывает, как весь стек сработает на реальном dry run |
 | `scorecard refresh scaffold` | синхронизирует внутренние scorecards с публичной перестановкой |
+| `trigger scenario / TikTok` | показывает первый конкретный live-case для same-day rerank |
 
 ## Практический вывод
 
